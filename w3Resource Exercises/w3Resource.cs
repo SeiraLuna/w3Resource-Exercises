@@ -1,7 +1,98 @@
 ﻿
 
 
+//Array #2 -- read n number of values in an array and display it in reverse order.
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] array = new int[CreateArray()];
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                try
+                {
+                    Console.Write($"Please enter element {i+1}: ");
+                   array[i] = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("That is an invalid entry.");
+                    i--;
+                }
+            }
+
+            Console.WriteLine("\nThank you! Now I will display the contents of this array.");
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine($"element {i+1} : {array[i]}");
+            }
+
+            Console.ReadKey();
+        }
+
+        static int CreateArray()
+        {
+            int n = 0;
+            while (n == 0)
+            {
+                Console.Write("Please enter the number of elements to store in the array: ");
+                try
+                {
+                    n = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("That is an invalid entry.");
+                }
+            }
+            return n;
+        }
+    }
+}
+
+
+
+/*
+//Array #1 -- store elements in an array and print it.
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] input = new int[10];
+
+            for (int i = 0; i < input.Length; i++)
+            {
+                Console.Write($"enter element {i+1}: ");
+                input[i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+           for(int i = 0; i < input.Length; i++)
+            {
+                Console.WriteLine($"element {i+1} : {input[i]}");
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
 //For Loop #6 --  display the multiplication table of a given integer
 using System;
 
