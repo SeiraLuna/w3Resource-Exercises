@@ -1,0 +1,16 @@
+[2018.06.24 08:27:03] Hello, what is your name?
+[2018.06.24 08:27:07] SeiraLuna
+[2018.06.24 08:27:07] Hello, SeiraLuna! How are you today?
+[2018.06.24 08:27:10] I am very well
+[2018.06.24 08:27:10] Would you like to see a transcript of our conversation so far, SeiraLuna?
+[2018.06.24 08:27:15] no thank you
+[2018.06.24 08:27:15] SeiraLuna! that's not the answer I am looking for!
+[2018.06.24 08:27:18] no?
+[2018.06.24 08:27:18] SeiraLuna! that's not the answer I am looking for!
+[2018.06.24 08:27:22] what are you looking for?
+[2018.06.24 08:27:22] SeiraLuna! that's not the answer I am looking for!
+[2018.06.24 08:27:27] *smiles wryly*
+[2018.06.24 08:27:27] SeiraLuna! that's not the answer I am looking for!
+[2018.06.24 08:27:31] okay, okay
+[2018.06.24 08:27:31] SeiraLuna! that's not the answer I am looking for!
+[2018.06.24 08:27:32] yes

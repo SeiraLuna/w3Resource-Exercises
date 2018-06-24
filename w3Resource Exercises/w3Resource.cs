@@ -1,6 +1,321 @@
 ﻿
 
 
+
+
+/*
+//DateTime #4 -- display the number of days of the year between two specified years. Second run with additional features.
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime date1 = new DateTime { };
+            DateTime date2 = new DateTime { };
+
+            date1 = GetYear(date1, "first");
+
+            date2 = GetYear(date2, "second");
+
+            Console.WriteLine($"There are {CalcDuration(date1, date2)} days between dates within those two years.");
+
+            Console.ReadKey();
+        }
+        
+        //gets year from user
+        static DateTime GetYear(DateTime date, string number)
+        {
+            while (true)
+            {
+                Console.WriteLine($"Please enter the {number} year: ");
+                try
+                {
+                    int Year = Convert.ToInt32(Console.ReadLine());
+                    date = new DateTime( Year, 12, 31, 1, 1, 1);
+                    break;
+                }
+                catch
+                {
+                    Console.WriteLine("Invalid entry.");
+                }
+            }
+            return date;
+        }
+        //calculates number of days between dates in each year
+        static int CalcDuration(DateTime date1, DateTime date2)
+        {
+            int sum = 0;
+            for(var i = 0; i <= Math.Abs(date1.Year - date2.Year); i++)
+            {
+                DateTime date3 = new DateTime((date1.Year) + i, date1.Month, date1.Day, date1.Hour, date1.Minute, date1.Second);
+                Console.WriteLine($"{date3} contains {date3.DayOfYear} days");
+                sum += date3.DayOfYear;
+            }
+            return sum;
+        }
+    }
+}
+
+
+/*
+//DateTime #4 --  display the number of days of the year between two specified years.
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime date1 = new DateTime(2018, 06, 25, 14, 33, 25);
+            DateTime date2 = new DateTime(2015, 6, 30, 15, 27, 45);
+
+            Console.WriteLine($"{date1} : The year {date1.Year} {(DateTime.IsLeapYear(date1.Year) ? "is" : "is not")} a leap year and contains {(DateTime.IsLeapYear(date1.Year) ? 366 : 365)} days");
+        
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//DateTime #3 -- get the day of the week for a specified date
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime date = new DateTime(2018, 06, 24, 9, 27, 44);
+
+            Console.WriteLine(date.DayOfWeek);
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//DateTime #2 -- display the Day properties (year, month, day, hour, minute, second, millisecond etc.
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime date = new DateTime(2018, 06, 24, 9, 18, 33);
+
+            Console.WriteLine($"\n{date}\n");
+
+            Console.WriteLine($"year = {date.Year}");
+            Console.WriteLine($"month = {date.Month}");
+            Console.WriteLine($"day = {date.Day}");
+            Console.WriteLine($"hour = {date.Hour}");
+            Console.WriteLine($"minute = {date.Minute}");
+            Console.WriteLine($"second = {date.Second}");
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//DateTime #1 -- extract the Date property and display the DateTime value in the formatted output. 
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime date = new DateTime(2018,12,24,18,30,00);
+
+            Console.WriteLine(date.ToUniversalTime());
+            Console.WriteLine(date.ToLongDateString());
+            Console.WriteLine(date.ToLongTimeString());
+            Console.WriteLine(date.ToShortDateString());
+            Console.WriteLine(date.ToShortTimeString());
+
+
+            Console.WriteLine(date.ToString("MM/dd/yy HH:mm"));
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//File Handling -- Practice with Stream, StreamWriter, DateTime and StreamReader 
+//to create time-stamped log files and then read them.
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.IO;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+
+            Stream fsw = new FileStream(@"C:\Users\rloyd\source\repos\w3Resource Exercises\textfile.txt", FileMode.OpenOrCreate, FileAccess.Write, FileShare.Read);
+            StreamWriter sw = new StreamWriter(fsw);
+
+            WriteText("Hello, what is your name?", sw);
+            string name = ReadText(sw);
+            WriteText($"Hello, {name}! How are you today?",sw);
+            ReadText(sw);
+            WriteText($"Would you like to see a transcript of our conversation so far, {name}?", sw);
+            while (true)
+            {
+                if (ReadText(sw) == "yes")
+                {
+                    break;
+                }
+                else WriteText($"{name}! that's not the answer I am looking for!", sw);
+            }
+            
+            sw.Close();
+            fsw.Close();
+
+            Stream fsr = new FileStream(@"C:\Users\rloyd\source\repos\w3Resource Exercises\textfile.txt", FileMode.Open, FileAccess.Read, FileShare.Read);
+            StreamReader sr = new StreamReader(fsr);
+
+            Console.WriteLine(sr.ReadToEnd());
+
+            sr.Close();
+            fsr.Close();
+
+            Console.ReadKey();
+        }
+
+        static void WriteText(string text, StreamWriter sw)
+        {
+            Console.WriteLine(text);
+            sw.WriteLine($"[{DateTime.Now.ToString("yyyy.MM.dd HH:mm:ss")}] {text}");
+        }
+
+        static string ReadText(StreamWriter sw)
+        {
+            string text = Console.ReadLine();
+            sw.WriteLine($"[{DateTime.Now.ToString("yyyy.MM.dd HH:mm:ss")}] {text}");
+            return text;
+        }
+    }
+}
+
+
+/*
+//File Handling #1 -- create a blank file in the disk newly
+using System;
+using System.IO;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //FileInfo filepath = new FileInfo(@"C:\Users\rloyd\source\repos\w3Resource Exercises\file.txt");
+            //filepath.Create();
+
+            Stream fs = new FileStream(@"C:\Users\rloyd\source\repos\w3Resource Exercises\file.txt", FileMode.Open, FileAccess.Write, FileShare.None);
+
+            StreamWriter sw = new StreamWriter(fs);
+
+            sw.WriteLine("Text file opened.");
+            Console.WriteLine("Text file opened.");
+            sw.WriteLine("Text file ammended.");
+            Console.WriteLine("Text file ammended.");
+            sw.WriteLine("Text file closing...");
+            Console.WriteLine("Text file closing...");
+
+            sw.Close();
+            fs.Close();
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//Array #3 --  find the sum of all elements of the array
+using System;
+using System.Diagnostics.CodeAnalysis;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] array = new int[CreateArray()];
+
+            for (var i = 0; i < array.Length; i++)
+            {
+                Console.Write($"Please enter the value for element {i+1}: ");
+                try
+                {
+                    array[i] = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("That is not a valid entry.");
+                    i--;
+                }
+            }
+
+            Console.WriteLine($"The sum of the array values is: {Sum(array)}");
+
+            Console.ReadKey();
+        }
+
+        static int CreateArray()
+        {
+            int n = 0;
+            while(n == 0)
+            {
+                Console.Write("Please enter the number of elments you would like to store in the array: ");
+                try
+                {
+                    n = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("That is not a valid entry.");
+                }
+            }
+            return n;
+        }
+
+        static int Sum(int[] nums)
+        {
+            int sum = 0;
+            for(var i = 0; i < nums.Length; i++)
+            {
+                sum += nums[i];
+            }
+            return sum;
+        }
+    }
+}
+
+
+/*
 //Array #2 -- read n number of values in an array and display it in reverse order.
 using System;
 using System.Collections;
@@ -29,8 +344,8 @@ namespace cFun
                 }
             }
 
-            Console.WriteLine("\nThank you! Now I will display the contents of this array.");
-            for (int i = 0; i < array.Length; i++)
+            Console.WriteLine("\nThank you! Now I will display the contents of this array in reverse order.");
+            for (int i = array.Length-1; i > -1; i--)
             {
                 Console.WriteLine($"element {i+1} : {array[i]}");
             }
