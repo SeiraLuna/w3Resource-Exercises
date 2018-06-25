@@ -1,0 +1,4210 @@
+
+Invariant Language (Invariant Country)
+Invariant Language (Invariant Country)
+Local date and time: 06/24/2018 17:07:29
+UTC date and time: 06/25/2018 00:07:29
+
+Qafar
+Afar
+Local date and time: 24/06/2018 5:07:29 carra
+UTC date and time: 25/06/2018 12:07:29 saaku
+
+Qafar (Yabuuti)
+Afar (Djibouti)
+Local date and time: 24/06/2018 5:07:29 carra
+UTC date and time: 25/06/2018 12:07:29 saaku
+
+Qafar (Eretria)
+Afar (Eritrea)
+Local date and time: 24/06/2018 5:07:29 carra
+UTC date and time: 25/06/2018 12:07:29 saaku
+
+Qafar (Otobbia)
+Afar (Ethiopia)
+Local date and time: 24/06/2018 5:07:29 carra
+UTC date and time: 25/06/2018 12:07:29 saaku
+
+Afrikaans
+Afrikaans
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Afrikaans (Namibië)
+Afrikaans (Namibia)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Afrikaans (Suid-Afrika)
+Afrikaans (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Aghem
+Aghem
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Aghem (Kàmàlûŋ)
+Aghem (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Akan
+Akan
+Local date and time: 2018/06/24 5:07:29 EW
+UTC date and time: 2018/06/25 12:07:29 AN
+
+Akan (Gaana)
+Akan (Ghana)
+Local date and time: 2018/06/24 5:07:29 EW
+UTC date and time: 2018/06/25 12:07:29 AN
+
+አማርኛ
+Amharic
+Local date and time: 24/06/2018 5:07:29 ከሰዓት
+UTC date and time: 25/06/2018 12:07:29 ጥዋት
+
+አማርኛ (ኢትዮጵያ)
+Amharic (Ethiopia)
+Local date and time: 24/06/2018 5:07:29 ከሰዓት
+UTC date and time: 25/06/2018 12:07:29 ጥዋት
+
+العربية
+Arabic
+Local date and time: 10/10/39 05:07:29 م
+UTC date and time: 11/10/39 12:07:29 ص
+
+العربية (العالم)
+Arabic (World)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (الإمارات العربية المتحدة)
+Arabic (United Arab Emirates)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (البحرين)
+Arabic (Bahrain)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (جيبوتي)
+Arabic (Djibouti)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (الجزائر)
+Arabic (Algeria)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+العربية (مصر)
+Arabic (Egypt)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (إريتريا)
+Arabic (Eritrea)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (إسرائيل)
+Arabic (Israel)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+العربية (العراق)
+Arabic (Iraq)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (الأردن)
+Arabic (Jordan)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (جزر القمر)
+Arabic (Comoros)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+العربية (الكويت)
+Arabic (Kuwait)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (لبنان)
+Arabic (Lebanon)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (ليبيا)
+Arabic (Libya)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (المملكة المغربية)
+Arabic (Morocco)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+العربية (موريتانيا)
+Arabic (Mauritania)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (عمان)
+Arabic (Oman)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (السلطة الفلسطينية)
+Arabic (Palestinian Authority)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (قطر)
+Arabic (Qatar)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (المملكة العربية السعودية)
+Arabic (Saudi Arabia)
+Local date and time: 10/10/39 05:07:29 م
+UTC date and time: 11/10/39 12:07:29 ص
+
+العربية (السودان)
+Arabic (Sudan)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (الصومال)
+Arabic (Somalia)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (جنوب السودان)
+Arabic (South Sudan)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (سوريا)
+Arabic (Syria)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+العربية (تشاد)
+Arabic (Chad)
+Local date and time: 24/6/2018 5:07:29 م
+UTC date and time: 25/6/2018 12:07:29 ص
+
+العربية (تونس)
+Arabic (Tunisia)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+العربية (اليمن)
+Arabic (Yemen)
+Local date and time: 24/06/2018 05:07:29 م
+UTC date and time: 25/06/2018 12:07:29 ص
+
+Mapudungun
+Mapudungun
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+Mapudungun (Chile)
+Mapudungun (Chile)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+অসমীয়া
+Assamese
+Local date and time: 24-06-2018 আবেলি 5:07:29
+UTC date and time: 25-06-2018 ৰাতিপু 12:07:29
+
+অসমীয়া (ভাৰত)
+Assamese (India)
+Local date and time: 24-06-2018 আবেলি 5:07:29
+UTC date and time: 25-06-2018 ৰাতিপু 12:07:29
+
+Kipare
+Asu
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kipare (Tadhania)
+Asu (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+asturianu
+Asturian
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+asturianu (España)
+Asturian (Spain)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+azərbaycan
+Azerbaijani
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Азәрбајҹан дили
+Azerbaijani (Cyrillic)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+азәрбајҹан (Азәрбајҹан)
+Azerbaijani (Cyrillic, Azerbaijan)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+azərbaycan
+Azerbaijani (Latin)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+azərbaycan (Azərbaycan)
+Azerbaijani (Latin, Azerbaijan)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Башҡорт
+Bashkir
+Local date and time: 24.06.18 17:07:29
+UTC date and time: 25.06.18 0:07:29
+
+Башҡорт (Рәсәй)
+Bashkir (Russia)
+Local date and time: 24.06.18 17:07:29
+UTC date and time: 25.06.18 0:07:29
+
+Ɓàsàa
+Basaa
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Ɓàsàa (Kàmɛ̀rûn)
+Basaa (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Беларуская
+Belarusian
+Local date and time: 24.06.18 17:07:29
+UTC date and time: 25.06.18 00:07:29
+
+Беларуская (Беларусь)
+Belarusian (Belarus)
+Local date and time: 24.06.18 17:07:29
+UTC date and time: 25.06.18 00:07:29
+
+Ichibemba
+Bemba
+Local date and time: 24/06/2018 5:07:29 akasuba
+UTC date and time: 25/06/2018 12:07:29 uluchelo
+
+Ichibemba (Zambia)
+Bemba (Zambia)
+Local date and time: 24/06/2018 5:07:29 akasuba
+UTC date and time: 25/06/2018 12:07:29 uluchelo
+
+Hibena
+Bena
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Hibena (Hutanzania)
+Bena (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+български
+Bulgarian
+Local date and time: 24.6.2018 г. 17:07:29
+UTC date and time: 25.6.2018 г. 0:07:29
+
+български (България)
+Bulgarian (Bulgaria)
+Local date and time: 24.6.2018 г. 17:07:29
+UTC date and time: 25.6.2018 г. 0:07:29
+
+Ẹ̀dó
+Edo
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+Ẹ̀dó (Nigeria)
+Edo (Nigeria)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+bamanakan
+Bamanankan
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+bamanakan
+Bamanankan (Latin)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+bamanakan (Mali)
+Bamanankan (Latin, Mali)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+বাংলা
+Bangla
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+বাংলা (বাংলাদেশ)
+Bangla (Bangladesh)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+বাংলা (ভারত)
+Bangla (India)
+Local date and time: 24-06-18 17.07.29
+UTC date and time: 25-06-18 00.07.29
+
+བོད་ཡིག
+Tibetan
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 00:07:29
+
+བོད་ཡིག (ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ།)
+Tibetan (China)
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 00:07:29
+
+བོད་སྐད་ (རྒྱ་གར་)
+Tibetan (India)
+Local date and time: 2018-06-24 5:07:29 ཕྱི་དྲོ་
+UTC date and time: 2018-06-25 12:07:29 སྔ་དྲོ་
+
+brezhoneg
+Breton
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+brezhoneg (Frañs)
+Breton (France)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+बड़ो
+Bodo
+Local date and time: 6/24/2018 5:07:29 बेलासे
+UTC date and time: 6/25/2018 12:07:29 फुं
+
+बड़ो (भारत)
+Bodo (India)
+Local date and time: 6/24/2018 5:07:29 बेलासे
+UTC date and time: 6/25/2018 12:07:29 फुं
+
+bosanski
+Bosnian
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+босански
+Bosnian (Cyrillic)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+босански (Босна и Херцеговина)
+Bosnian (Cyrillic, Bosnia and Herzegovina)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+bosanski
+Bosnian (Latin)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+bosanski (Bosna i Hercegovina)
+Bosnian (Latin, Bosnia and Herzegovina)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+ብሊን
+Blin
+Local date and time: 24/06/2018 5:07:29 ፋዱስ ደምቢ
+UTC date and time: 25/06/2018 12:07:29 ፋዱስ ጃብ
+
+ብሊን (ኤርትራ)
+Blin (Eritrea)
+Local date and time: 24/06/2018 5:07:29 ፋዱስ ደምቢ
+UTC date and time: 25/06/2018 12:07:29 ፋዱስ ጃብ
+
+català
+Catalan
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+català (Andorra)
+Catalan (Andorra)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+català (català)
+Catalan (Catalan)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+valencià (Espanya)
+Valencian (Spain)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+català (França)
+Catalan (France)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+català (Itàlia)
+Catalan (Italy)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+нохчийн
+Chechen
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+нохчийн (Росси)
+Chechen (Russia)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Rukiga
+Chiga
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Rukiga (Uganda)
+Chiga (Uganda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ᏣᎳᎩ
+Cherokee
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+ᏣᎳᎩ
+Cherokee
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+ᏣᎳᎩ (ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᏍᎦᏚᎩ)
+Cherokee (Cherokee, United States)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+Corsu
+Corsican
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 0:07:29
+
+Corsu (Francia)
+Corsican (France)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 0:07:29
+
+čeština
+Czech
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+čeština (Česko)
+Czech (Czechia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+церковнослове́нскїй
+Church Slavic
+Local date and time: 2018.06.24 17:07:29
+UTC date and time: 2018.06.25 00:07:29
+
+церковнослове́нскїй (рѡссі́а)
+Church Slavic (Russia)
+Local date and time: 2018.06.24 17:07:29
+UTC date and time: 2018.06.25 00:07:29
+
+Cymraeg
+Welsh
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Cymraeg (Y Deyrnas Unedig)
+Welsh (United Kingdom)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+dansk
+Danish
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+dansk (Danmark)
+Danish (Denmark)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+dansk (Grønland)
+Danish (Greenland)
+Local date and time: 24/06/2018 5.07.29 PM
+UTC date and time: 25/06/2018 12.07.29 AM
+
+Kitaita
+Taita
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kitaita (Kenya)
+Taita (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Deutsch
+German
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Deutsch (Österreich)
+German (Austria)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Deutsch (Belgien)
+German (Belgium)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Deutsch (Schweiz)
+German (Switzerland)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Deutsch (Deutschland)
+German (Germany)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Deutsch (Italien)
+German (Italy)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Deutsch (Liechtenstein)
+German (Liechtenstein)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Deutsch (Luxemburg)
+German (Luxembourg)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Zarmaciine
+Zarma
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Zarmaciine (Nižer)
+Zarma (Niger)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+dolnoserbšćina
+Lower Sorbian
+Local date and time: 24. 6. 2018 17:07:29
+UTC date and time: 25. 6. 2018 00:07:29
+
+dolnoserbšćina (Nimska)
+Lower Sorbian (Germany)
+Local date and time: 24. 6. 2018 17:07:29
+UTC date and time: 25. 6. 2018 00:07:29
+
+duálá
+Duala
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+duálá (Cameroun)
+Duala (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ދިވެހިބަސް
+Divehi
+Local date and time: 24/06/18 17:07:29
+UTC date and time: 25/06/18 00:07:29
+
+ދިވެހިބަސް (ދިވެހި ރާއްޖެ)
+Divehi (Maldives)
+Local date and time: 24/06/18 17:07:29
+UTC date and time: 25/06/18 00:07:29
+
+joola
+Jola-Fonyi
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+joola (Senegal)
+Jola-Fonyi (Senegal)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+རྫོང་ཁ
+Dzongkha
+Local date and time: 2018-06-24 ཆུ་ཚོད་5:07:29 ཕྱི་ཆ་
+UTC date and time: 2018-06-25 ཆུ་ཚོད་12:07:29 སྔ་ཆ་
+
+རྫོང་ཁ (འབྲུག)
+Dzongkha (Bhutan)
+Local date and time: 2018-06-24 ཆུ་ཚོད་5:07:29 ཕྱི་ཆ་
+UTC date and time: 2018-06-25 ཆུ་ཚོད་12:07:29 སྔ་ཆ་
+
+Kĩembu
+Embu
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kĩembu (Kenya)
+Embu (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Eʋegbe
+Ewe
+Local date and time: 6/24/2018 ɣetrɔ ga 5:07:29
+UTC date and time: 6/25/2018 ŋdi ga 12:07:29
+
+Eʋegbe (Ghana nutome)
+Ewe (Ghana)
+Local date and time: 6/24/2018 ɣetrɔ ga 5:07:29
+UTC date and time: 6/25/2018 ŋdi ga 12:07:29
+
+Eʋegbe (Togo nutome)
+Ewe (Togo)
+Local date and time: 6/24/2018 17:07:29
+UTC date and time: 6/25/2018 00:07:29
+
+Ελληνικά
+Greek
+Local date and time: 24/6/2018 5:07:29 μμ
+UTC date and time: 25/6/2018 12:07:29 πμ
+
+Ελληνικά (Κύπρος)
+Greek (Cyprus)
+Local date and time: 24/6/2018 5:07:29 μ.μ.
+UTC date and time: 25/6/2018 12:07:29 π.μ.
+
+Ελληνικά (Ελλάδα)
+Greek (Greece)
+Local date and time: 24/6/2018 5:07:29 μμ
+UTC date and time: 25/6/2018 12:07:29 πμ
+
+English
+English
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (World)
+English (World)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Caribbean)
+English (Caribbean)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Europe)
+English (Europe)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Antigua and Barbuda)
+English (Antigua and Barbuda)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Anguilla)
+English (Anguilla)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (American Samoa)
+English (American Samoa)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (Austria)
+English (Austria)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Australia)
+English (Australia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Barbados)
+English (Barbados)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Belgium)
+English (Belgium)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Burundi)
+English (Burundi)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (Bermuda)
+English (Bermuda)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Bahamas)
+English (Bahamas)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Botswana)
+English (Botswana)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Belize)
+English (Belize)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Canada)
+English (Canada)
+Local date and time: 2018-06-24 5:07:29 PM
+UTC date and time: 2018-06-25 12:07:29 AM
+
+English (Cocos (Keeling) Islands)
+English (Cocos (Keeling) Islands)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Switzerland)
+English (Switzerland)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Cook Islands)
+English (Cook Islands)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Cameroon)
+English (Cameroon)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Christmas Island)
+English (Christmas Island)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Cyprus)
+English (Cyprus)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Germany)
+English (Germany)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Denmark)
+English (Denmark)
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+English (Dominica)
+English (Dominica)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Eritrea)
+English (Eritrea)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Finland)
+English (Finland)
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 0.07.29
+
+English (Fiji)
+English (Fiji)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Falkland Islands)
+English (Falkland Islands)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Micronesia)
+English (Micronesia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (United Kingdom)
+English (United Kingdom)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Grenada)
+English (Grenada)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Guernsey)
+English (Guernsey)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Ghana)
+English (Ghana)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Gibraltar)
+English (Gibraltar)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Gambia)
+English (Gambia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Guam)
+English (Guam)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (Guyana)
+English (Guyana)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Hong Kong SAR)
+English (Hong Kong SAR)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+English (Indonesia)
+English (Indonesia)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Ireland)
+English (Ireland)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Israel)
+English (Israel)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 0:07:29
+
+English (Isle of Man)
+English (Isle of Man)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (India)
+English (India)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+English (British Indian Ocean Territory)
+English (British Indian Ocean Territory)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Jersey)
+English (Jersey)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Jamaica)
+English (Jamaica)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+English (Kenya)
+English (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Kiribati)
+English (Kiribati)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Saint Kitts and Nevis)
+English (Saint Kitts and Nevis)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Cayman Islands)
+English (Cayman Islands)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Saint Lucia)
+English (Saint Lucia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Liberia)
+English (Liberia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Lesotho)
+English (Lesotho)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Madagascar)
+English (Madagascar)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Marshall Islands)
+English (Marshall Islands)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (Macao SAR)
+English (Macao SAR)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Northern Mariana Islands)
+English (Northern Mariana Islands)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (Montserrat)
+English (Montserrat)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Malta)
+English (Malta)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Mauritius)
+English (Mauritius)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Malawi)
+English (Malawi)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Malaysia)
+English (Malaysia)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+English (Namibia)
+English (Namibia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Norfolk Island)
+English (Norfolk Island)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Nigeria)
+English (Nigeria)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Netherlands)
+English (Netherlands)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Nauru)
+English (Nauru)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Niue)
+English (Niue)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (New Zealand)
+English (New Zealand)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Papua New Guinea)
+English (Papua New Guinea)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Philippines)
+English (Philippines)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Pakistan)
+English (Pakistan)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Pitcairn Islands)
+English (Pitcairn Islands)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Puerto Rico)
+English (Puerto Rico)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (Palau)
+English (Palau)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Rwanda)
+English (Rwanda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Solomon Islands)
+English (Solomon Islands)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Seychelles)
+English (Seychelles)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Sudan)
+English (Sudan)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Sweden)
+English (Sweden)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+English (Singapore)
+English (Singapore)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+English (St Helena, Ascension, Tristan da Cunha)
+English (St Helena, Ascension, Tristan da Cunha)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Slovenia)
+English (Slovenia)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Sierra Leone)
+English (Sierra Leone)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (South Sudan)
+English (South Sudan)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Sint Maarten)
+English (Sint Maarten)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Swaziland)
+English (Swaziland)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Turks and Caicos Islands)
+English (Turks and Caicos Islands)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Tokelau)
+English (Tokelau)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Tonga)
+English (Tonga)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Trinidad and Tobago)
+English (Trinidad and Tobago)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Tuvalu)
+English (Tuvalu)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Tanzania)
+English (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (Uganda)
+English (Uganda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+English (U.S. Outlying Islands)
+English (U.S. Outlying Islands)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (United States)
+English (United States)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (Saint Vincent and the Grenadines)
+English (Saint Vincent and the Grenadines)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (British Virgin Islands)
+English (British Virgin Islands)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (U.S. Virgin Islands)
+English (U.S. Virgin Islands)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+English (Vanuatu)
+English (Vanuatu)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Samoa)
+English (Samoa)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (South Africa)
+English (South Africa)
+Local date and time: 2018/06/24 17:07:29
+UTC date and time: 2018/06/25 00:07:29
+
+English (Zambia)
+English (Zambia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+English (Zimbabwe)
+English (Zimbabwe)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+esperanto
+Esperanto
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+esperanto (World)
+Esperanto (World)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+español
+Spanish
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 0:07:29
+
+español (Latinoamérica)
+Spanish (Latin America)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (Argentina)
+Spanish (Argentina)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (Bolivia)
+Spanish (Bolivia)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (Brasil)
+Spanish (Brazil)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (Belice)
+Spanish (Belize)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (Chile)
+Spanish (Chile)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+español (Colombia)
+Spanish (Colombia)
+Local date and time: 24/06/2018 5:07:29 p. m.
+UTC date and time: 25/06/2018 12:07:29 a. m.
+
+español (Costa Rica)
+Spanish (Costa Rica)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (Cuba)
+Spanish (Cuba)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (República Dominicana)
+Spanish (Dominican Republic)
+Local date and time: 24/6/2018 5:07:29 p. m.
+UTC date and time: 25/6/2018 12:07:29 a. m.
+
+español (Ecuador)
+Spanish (Ecuador)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+español (España, alfabetización internacional)
+Spanish (Spain, International Sort)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 0:07:29
+
+español (Guinea Ecuatorial)
+Spanish (Equatorial Guinea)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+español (Guatemala)
+Spanish (Guatemala)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+español (Honduras)
+Spanish (Honduras)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (México)
+Spanish (Mexico)
+Local date and time: 24/06/2018 05:07:29 p. m.
+UTC date and time: 25/06/2018 12:07:29 a. m.
+
+español (Nicaragua)
+Spanish (Nicaragua)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (Panamá)
+Spanish (Panama)
+Local date and time: 06/24/2018 5:07:29 p. m.
+UTC date and time: 06/25/2018 12:07:29 a. m.
+
+español (Perú)
+Spanish (Peru)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+español (Filipinas)
+Spanish (Philippines)
+Local date and time: 24/6/2018 5:07:29 p. m.
+UTC date and time: 25/6/2018 12:07:29 a. m.
+
+español (Puerto Rico)
+Spanish (Puerto Rico)
+Local date and time: 06/24/2018 5:07:29 p. m.
+UTC date and time: 06/25/2018 12:07:29 a. m.
+
+español (Paraguay)
+Spanish (Paraguay)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (El Salvador)
+Spanish (El Salvador)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+español (Estados Unidos)
+Spanish (United States)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+español (Uruguay)
+Spanish (Uruguay)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+español (Venezuela)
+Spanish (Venezuela)
+Local date and time: 24/6/2018 5:07:29 p. m.
+UTC date and time: 25/6/2018 12:07:29 a. m.
+
+eesti
+Estonian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+eesti (Eesti)
+Estonian (Estonia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+euskara
+Basque
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 00:07:29
+
+euskara (euskara)
+Basque (Basque)
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 00:07:29
+
+ewondo
+Ewondo
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ewondo (Kamərún)
+Ewondo (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+فارسى
+Persian
+Local date and time: 03/04/1397 05:07:29 ب.ظ
+UTC date and time: 04/04/1397 12:07:29 ق.ظ
+
+فارسى (ایران)
+Persian (Iran)
+Local date and time: 03/04/1397 05:07:29 ب.ظ
+UTC date and time: 04/04/1397 12:07:29 ق.ظ
+
+Fulah
+Fulah
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Pulaar (Kameruun)
+Fulah (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Pulaar (Gine)
+Fulah (Guinea)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Fulah
+Fulah
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Fulah (Sénégal)
+Fulah (Latin, Senegal)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Pulaar (Muritani)
+Fulah (Mauritania)
+Local date and time: 24/6/2018 5:07:29 kikiiɗe
+UTC date and time: 25/6/2018 12:07:29 subaka
+
+Pulaar (Nigeria)
+Fulah (Nigeria)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+suomi
+Finnish
+Local date and time: 24.6.2018 17.07.29
+UTC date and time: 25.6.2018 0.07.29
+
+suomi (Suomi)
+Finnish (Finland)
+Local date and time: 24.6.2018 17.07.29
+UTC date and time: 25.6.2018 0.07.29
+
+Filipino
+Filipino
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+Filipino (Pilipinas)
+Filipino (Philippines)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+føroyskt
+Faroese
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+føroyskt (Danmark)
+Faroese (Denmark)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+føroyskt (Føroyar)
+Faroese (Faroe Islands)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+français
+French
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (caraïbes)
+French (Caribbean)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Belgique)
+French (Belgium)
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+français (Burkina Faso)
+French (Burkina Faso)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Burundi)
+French (Burundi)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Bénin)
+French (Benin)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Saint-Barthélemy)
+French (Saint Barthélemy)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Canada)
+French (Canada)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+français (Congo, République démocratique du)
+French Congo (DRC)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (République centrafricaine)
+French (Central African Republic)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Congo)
+French (Congo)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Suisse)
+French (Switzerland)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+français (Côte d’Ivoire)
+French (Côte d’Ivoire)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Cameroun)
+French (Cameroon)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Djibouti)
+French (Djibouti)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+français (Algérie)
+French (Algeria)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+français (France)
+French (France)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Gabon)
+French (Gabon)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Guyane française)
+French (French Guiana)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Guinée)
+French (Guinea)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Guadeloupe)
+French (Guadeloupe)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Guinée équatoriale)
+French (Equatorial Guinea)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Haïti)
+French (Haiti)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Comores)
+French (Comoros)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Luxembourg)
+French (Luxembourg)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Maroc)
+French (Morocco)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Monaco)
+French (Monaco)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Saint-Martin)
+French (Saint Martin)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Madagascar)
+French (Madagascar)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Mali)
+French (Mali)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Martinique)
+French (Martinique)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Mauritanie)
+French (Mauritania)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+français (Maurice)
+French (Mauritius)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Nouvelle-Calédonie)
+French (New Caledonia)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Niger)
+French (Niger)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Polynésie française)
+French (French Polynesia)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Saint-Pierre-et-Miquelon)
+French (Saint Pierre and Miquelon)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (La Réunion)
+French (Réunion)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Rwanda)
+French (Rwanda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Seychelles)
+French (Seychelles)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Sénégal)
+French (Senegal)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Syrie)
+French (Syria)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+français (Tchad)
+French (Chad)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+français (Togo)
+French (Togo)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Tunisie)
+French (Tunisia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+français (Vanuatu)
+French (Vanuatu)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+français (Wallis-et-Futuna)
+French (Wallis and Futuna)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+français (Mayotte)
+French (Mayotte)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+furlan
+Friulian
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+furlan (Italie)
+Friulian (Italy)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Frysk
+Western Frisian
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Frysk (Nederlân)
+Western Frisian (Netherlands)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Gaeilge
+Irish
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Gaeilge (Éire)
+Irish (Ireland)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Gàidhlig
+Scottish Gaelic
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Gàidhlig (An Rìoghachd Aonaichte)
+Scottish Gaelic (United Kingdom)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+galego
+Galician
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+galego (galego)
+Galician (Galician)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Avañe’ẽ
+Guarani
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Avañe’ẽ (Paraguái)
+Guarani (Paraguay)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Schwiizertüütsch
+Swiss German
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Schwiizertüütsch (Schwiiz)
+Swiss German (Switzerland)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Elsässisch (Frànkrisch)
+Alsatian (France)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Schwiizertüütsch (Liächteschtäi)
+Swiss German (Liechtenstein)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+ગુજરાતી
+Gujarati
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+ગુજરાતી (ભારત)
+Gujarati (India)
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+Ekegusii
+Gusii
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Ekegusii (Kenya)
+Gusii (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Gaelg
+Manx
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Gaelg (Ellan Vannin)
+Manx (Isle of Man)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Hausa
+Hausa
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Hausa
+Hausa (Latin)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Hausa (Gana)
+Hausa (Latin, Ghana)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Hausa (Nijar)
+Hausa (Latin, Niger)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Hausa (Najeriya)
+Hausa (Latin, Nigeria)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ʻŌlelo Hawaiʻi
+Hawaiian
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+ʻŌlelo Hawaiʻi (ʻAmelika Hui Pū ʻIa)
+Hawaiian (United States)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+עברית
+Hebrew
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+עברית (ישראל)
+Hebrew (Israel)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+हिंदी
+Hindi
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+हिंदी (भारत)
+Hindi (India)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+hrvatski
+Croatian
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 0:07:29
+
+hrvatski (Bosna i Hercegovina)
+Croatian (Bosnia and Herzegovina)
+Local date and time: 24. 6. 2018. 17:07:29
+UTC date and time: 25. 6. 2018. 00:07:29
+
+hrvatski (Hrvatska)
+Croatian (Croatia)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 0:07:29
+
+hornjoserbšćina
+Upper Sorbian
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+hornjoserbšćina (Němska)
+Upper Sorbian (Germany)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+magyar
+Hungarian
+Local date and time: 2018. 06. 24. 17:07:29
+UTC date and time: 2018. 06. 25. 0:07:29
+
+magyar (Magyarország)
+Hungarian (Hungary)
+Local date and time: 2018. 06. 24. 17:07:29
+UTC date and time: 2018. 06. 25. 0:07:29
+
+Հայերեն
+Armenian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Հայերեն (Հայաստան)
+Armenian (Armenia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+interlingua
+Interlingua
+Local date and time: 2018/06/24 17:07:29
+UTC date and time: 2018/06/25 00:07:29
+
+interlingua (World)
+Interlingua (World)
+Local date and time: 2018/06/24 17:07:29
+UTC date and time: 2018/06/25 00:07:29
+
+interlingua (Francia)
+Interlingua (France)
+Local date and time: 2018/06/24 17:07:29
+UTC date and time: 2018/06/25 00:07:29
+
+Ibibio-Efik
+Ibibio
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+Ibibio-Efik (Nigeria)
+Ibibio (Nigeria)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+Indonesia
+Indonesian
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+Indonesia (Indonesia)
+Indonesian (Indonesia)
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+Igbo
+Igbo
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Igbo (Nigeria)
+Igbo (Nigeria)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ꆈꌠꁱꂷ
+Yi
+Local date and time: 2018/6/24 ꂵꆪꈌꉈ 5:07:29
+UTC date and time: 2018/6/25 ꂵꆪꈌꈐ 12:07:29
+
+ꆈꌠꁱꂷ (ꍏꉸꏓꂱꇭꉼꇩ)
+Yi (China)
+Local date and time: 2018/6/24 ꂵꆪꈌꉈ 5:07:29
+UTC date and time: 2018/6/25 ꂵꆪꈌꈐ 12:07:29
+
+íslenska
+Icelandic
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 00:07:29
+
+íslenska (Ísland)
+Icelandic (Iceland)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 00:07:29
+
+italiano
+Italian
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+italiano (Svizzera)
+Italian (Switzerland)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+italiano (Italia)
+Italian (Italy)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+italiano (San Marino)
+Italian (San Marino)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+italiano (Città del Vaticano)
+Italian (Vatican City)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Inuktitut
+Inuktitut
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+ᐃᓄᒃᑎᑐᑦ
+Inuktitut (Syllabics)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕᒥ)
+Inuktitut (Syllabics, Canada)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+Inuktitut
+Inuktitut (Latin)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+Inuktitut (Kanatami)
+Inuktitut (Latin, Canada)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+日本語
+Japanese
+Local date and time: 2018/06/24 17:07:29
+UTC date and time: 2018/06/25 0:07:29
+
+日本語 (日本)
+Japanese (Japan)
+Local date and time: 2018/06/24 17:07:29
+UTC date and time: 2018/06/25 0:07:29
+
+Ndaꞌa
+Ngomba
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Ndaꞌa (Kamɛlûn)
+Ngomba (Cameroon)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Kimachame
+Machame
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kimachame (Tanzania)
+Machame (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Basa Jawa
+Javanese
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+ꦧꦱꦗꦮ
+Javanese (Javanese)
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+ꦧꦱꦗꦮ (Indonesia)
+Javanese (Javanese, Indonesia)
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+Basa Jawa
+Javanese
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+Basa Jawa (Indonesia)
+Javanese (Indonesia)
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+ქართული
+Georgian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+ქართული (საქართველო)
+Georgian (Georgia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Taqbaylit
+Kabyle
+Local date and time: 24/6/2018 5:07:29 n tmeddit
+UTC date and time: 25/6/2018 12:07:29 n tufat
+
+Taqbaylit (Lezzayer)
+Kabyle (Algeria)
+Local date and time: 24/6/2018 5:07:29 n tmeddit
+UTC date and time: 25/6/2018 12:07:29 n tufat
+
+Kikamba
+Kamba
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kikamba (Kenya)
+Kamba (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Chimakonde
+Makonde
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Chimakonde (Tanzania)
+Makonde (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+kabuverdianu
+Kabuverdianu
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+kabuverdianu (Kabu Verdi)
+Kabuverdianu (Cabo Verde)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Koyra ciini
+Koyra Chiini
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Koyra ciini (Maali)
+Koyra Chiini (Mali)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Gikuyu
+Kikuyu
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Gikuyu (Kenya)
+Kikuyu (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+қазақ тілі
+Kazakh
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+қазақ тілі (Қазақстан)
+Kazakh (Kazakhstan)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+kakɔ
+Kako
+Local date and time: 24/06 2018 17:07:29
+UTC date and time: 25/06 2018 00:07:29
+
+kakɔ (Kamɛrun)
+Kako (Cameroon)
+Local date and time: 24/06 2018 17:07:29
+UTC date and time: 25/06 2018 00:07:29
+
+kalaallisut
+Greenlandic
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+kalaallisut (Kalaallit Nunaat)
+Greenlandic (Greenland)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Kalenjin
+Kalenjin
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kalenjin (Emetab Kenya)
+Kalenjin (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ភាសាខ្មែរ
+Khmer
+Local date and time: 24/06/18 17:07:29
+UTC date and time: 25/06/18 00:07:29
+
+ភាសាខ្មែរ (កម្ពុជា)
+Khmer (Cambodia)
+Local date and time: 24/06/18 17:07:29
+UTC date and time: 25/06/18 00:07:29
+
+ಕನ್ನಡ
+Kannada
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+ಕನ್ನಡ (ಭಾರತ)
+Kannada (India)
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+한국어
+Korean
+Local date and time: 2018-06-24 오후 5:07:29
+UTC date and time: 2018-06-25 오전 12:07:29
+
+한국어 (조선민주주의인민공화국)
+Korean (North Korea)
+Local date and time: 2018. 6. 24. 오후 5:07:29
+UTC date and time: 2018. 6. 25. 오전 12:07:29
+
+한국어(대한민국)
+Korean (Korea)
+Local date and time: 2018-06-24 오후 5:07:29
+UTC date and time: 2018-06-25 오전 12:07:29
+
+कोंकणी
+Konkani
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+कोंकणी (भारत)
+Konkani (India)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Kanuri
+Kanuri
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+Kanuri (Nigeria)
+Kanuri (Nigeria)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+کٲشُر
+Kashmiri
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+کٲشُر
+Kashmiri (Perso-Arabic)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+کٲشُر (اَربی)
+Kashmiri (Perso-Arabic)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+कॉशुर
+Kashmiri (Devanagari)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+कॉशुर
+Kashmiri (Devanagari)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Kishambaa
+Shambala
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kishambaa (Tanzania)
+Shambala (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+rikpa
+Bafia
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+rikpa (kamɛrún)
+Bafia (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Kölsch
+Colognian
+Local date and time: 24. 6. 2018 17:07:29
+UTC date and time: 25. 6. 2018 00:07:29
+
+Kölsch (Doütschland)
+Colognian (Germany)
+Local date and time: 24. 6. 2018 17:07:29
+UTC date and time: 25. 6. 2018 00:07:29
+
+کوردیی ناوەڕاست
+Central Kurdish
+Local date and time: 2018/06/24 05:07:29 د.ن
+UTC date and time: 2018/06/25 12:07:29 پ.ن
+
+کوردیی ناوەڕاست
+Central Kurdish
+Local date and time: 2018/06/24 05:07:29 د.ن
+UTC date and time: 2018/06/25 12:07:29 پ.ن
+
+کوردیی ناوەڕاست (عێراق)
+Central Kurdish (Iraq)
+Local date and time: 2018/06/24 05:07:29 د.ن
+UTC date and time: 2018/06/25 12:07:29 پ.ن
+
+کوردی (ئێران)
+Kurdish (Perso-Arabic, Iran)
+Local date and time: 03/04/1397 17:07:29
+UTC date and time: 04/04/1397 00:07:29
+
+kernewek
+Cornish
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+kernewek (Rywvaneth Unys)
+Cornish (United Kingdom)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Кыргыз
+Kyrgyz
+Local date and time: 24-июн 18 17:07:29
+UTC date and time: 25-июн 18 00:07:29
+
+Кыргыз (Кыргызстан)
+Kyrgyz (Kyrgyzstan)
+Local date and time: 24-июн 18 17:07:29
+UTC date and time: 25-июн 18 00:07:29
+
+lingua latīna
+Latin
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+lingua latīna (World)
+Latin (World)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kɨlaangi
+Langi
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kɨlaangi (Taansanía)
+Langi (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Lëtzebuergesch
+Luxembourgish
+Local date and time: 24.06.18 17:07:29
+UTC date and time: 25.06.18 00:07:29
+
+Lëtzebuergesch (Lëtzebuerg)
+Luxembourgish (Luxembourg)
+Local date and time: 24.06.18 17:07:29
+UTC date and time: 25.06.18 00:07:29
+
+Luganda
+Ganda
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Luganda (Yuganda)
+Ganda (Uganda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Lakȟólʼiyapi
+Lakota
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+Lakȟólʼiyapi (Mílahaŋska Tȟamákȟočhe)
+Lakota (United States)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+lingála
+Lingala
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+lingála (Angóla)
+Lingala (Angola)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+lingála (Republíki ya Kongó Demokratíki)
+Lingala (Congo DRC)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+lingála (Repibiki ya Afríka ya Káti)
+Lingala (Central African Republic)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+lingála (Kongo)
+Lingala (Congo)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ລາວ
+Lao
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+ລາວ (ລາວ)
+Lao (Laos)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+لۊری شومالی
+Northern Luri
+Local date and time: 03/04/1397 17:07:29
+UTC date and time: 04/04/1397 00:07:29
+
+لۊری شومالی (Iraq)
+Northern Luri (Iraq)
+Local date and time: 2018-06-24 5:07:29 PM
+UTC date and time: 2018-06-25 12:07:29 AM
+
+لۊری شومالی (Iran)
+Northern Luri (Iran)
+Local date and time: 03/04/1397 17:07:29
+UTC date and time: 04/04/1397 00:07:29
+
+lietuvių
+Lithuanian
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+lietuvių (Lietuva)
+Lithuanian (Lithuania)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Tshiluba
+Luba-Katanga
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Tshiluba (Ditunga wa Kongu)
+Luba-Katanga (Congo DRC)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Dholuo
+Luo
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Dholuo (Kenya)
+Luo (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Luluhia
+Luyia
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Luluhia (Kenya)
+Luyia (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+latviešu
+Latvian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+latviešu (Latvija)
+Latvian (Latvia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Maa
+Masai
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Maa (Kenya)
+Masai (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Maa (Tansania)
+Masai (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kĩmĩrũ
+Meru
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kĩmĩrũ (Kenya)
+Meru (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+kreol morisien
+Morisyen
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+kreol morisien (Moris)
+Morisyen (Mauritius)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Malagasy
+Malagasy
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Malagasy (Madagasikara)
+Malagasy (Madagascar)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Makua
+Makhuwa-Meetto
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Makua (Umozambiki)
+Makhuwa-Meetto (Mozambique)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+metaʼ
+Metaʼ
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+metaʼ (Kamalun)
+Metaʼ (Cameroon)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Reo Māori
+Maori
+Local date and time: 24/06/2018 5:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+Reo Māori (Aotearoa)
+Maori (New Zealand)
+Local date and time: 24/06/2018 5:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+македонски
+Macedonian
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 00:07:29
+
+македонски (Република Македонија)
+Macedonian (Macedonia, FYRO)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 00:07:29
+
+മലയാളം
+Malayalam
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+മലയാളം (ഇന്ത്യ)
+Malayalam (India)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+монгол
+Mongolian
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+монгол
+Mongolian
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+монгол (Монгол)
+Mongolian (Mongolia)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+ᠮᠣᠩᠭᠣᠤᠯ ᠬᠡᠯᠡ
+Mongolian (Traditional Mongolian)
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 0:07:29
+
+ᠮᠣᠩᠭᠣᠤᠯ ᠬᠡᠯᠡ (ᠪᠦᠭᠦᠳᠡ ᠨᠠᠢᠷᠠᠮᠳᠠᠬᠤ ᠳᠤᠮᠳᠠᠳᠤ ᠠᠷᠠᠳ ᠣᠯᠣᠰ)
+Mongolian (Traditional Mongolian, China)
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 0:07:29
+
+ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ (ᠮᠣᠩᠭᠣᠯ ᠣᠯᠣᠰ)
+Mongolian (Traditional Mongolian, Mongolia)
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 0:07:29
+
+মৈতৈলোন্
+Manipuri
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+মৈতৈলোন্ (India)
+Manipuri (India)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kanien’kéha
+Mohawk
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+Kanien'kéha
+Mohawk (Mohawk)
+Local date and time: 6/24/2018 5:07:29 PM
+UTC date and time: 6/25/2018 12:07:29 AM
+
+मराठी
+Marathi
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+मराठी (भारत)
+Marathi (India)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Bahasa Melayu
+Malay
+Local date and time: 24/06/2018 5:07:29 PTG
+UTC date and time: 25/06/2018 12:07:29 PG
+
+Bahasa Melayu (Brunei)
+Malay (Brunei)
+Local date and time: 24/06/2018 5:07:29 PTG
+UTC date and time: 25/06/2018 12:07:29 PG
+
+Bahasa Melayu (Malaysia)
+Malay (Malaysia)
+Local date and time: 24/06/2018 5:07:29 PTG
+UTC date and time: 25/06/2018 12:07:29 PG
+
+Bahasa Melayu (Singapura)
+Malay (Singapore)
+Local date and time: 24/06/2018 5:07:29 PTG
+UTC date and time: 25/06/2018 12:07:29 PG
+
+Malti
+Maltese
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Malti (Malta)
+Maltese (Malta)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+MUNDAŊ
+Mundang
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+MUNDAŊ (kameruŋ)
+Mundang (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ဗမာ
+Burmese
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+မြန်မာ (မြန်မာ)
+Burmese (Myanmar)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+مازرونی
+Mazanderani
+Local date and time: 03/04/1397 17:07:29
+UTC date and time: 04/04/1397 00:07:29
+
+مازرونی (ایران)
+Mazanderani (Iran)
+Local date and time: 03/04/1397 17:07:29
+UTC date and time: 04/04/1397 00:07:29
+
+Khoekhoegowab
+Nama
+Local date and time: 24/06/2018 5:07:29 ǃuias
+UTC date and time: 25/06/2018 12:07:29 ǁgoagas
+
+Khoekhoegowab (Namibiab)
+Nama (Namibia)
+Local date and time: 24/06/2018 5:07:29 ǃuias
+UTC date and time: 25/06/2018 12:07:29 ǁgoagas
+
+norsk bokmål
+Norwegian Bokmål
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+norsk bokmål (Norge)
+Norwegian Bokmål (Norway)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+norsk bokmål (Svalbard og Jan Mayen)
+Norwegian Bokmål (Svalbard and Jan Mayen)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+isiNdebele
+North Ndebele
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+isiNdebele (Zimbabwe)
+North Ndebele (Zimbabwe)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Neddersass’sch
+Low German
+Local date and time: 24.06.2018 Klock 17.07.29
+UTC date and time: 25.06.2018 Klock 0.07.29
+
+Neddersass’sch (Düütschland)
+Low German (Germany)
+Local date and time: 24.06.2018 Klock 17.07.29
+UTC date and time: 25.06.2018 Klock 0.07.29
+
+Neddersass’sch (Nedderlannen)
+Low German (Netherlands)
+Local date and time: 24.06.2018 Klock 17.07.29
+UTC date and time: 25.06.2018 Klock 0.07.29
+
+नेपाली
+Nepali
+Local date and time: 6/24/2018 5:07:29 अपराह्न
+UTC date and time: 6/25/2018 12:07:29 पूर्वाह्न
+
+नेपाली (भारत)
+Nepali (India)
+Local date and time: 2018-06-24 5:07:29 अपराह्न
+UTC date and time: 2018-06-25 12:07:29 पूर्वाह्न
+
+नेपाली (नेपाल)
+Nepali (Nepal)
+Local date and time: 6/24/2018 5:07:29 अपराह्न
+UTC date and time: 6/25/2018 12:07:29 पूर्वाह्न
+
+Nederlands
+Dutch
+Local date and time: 24-6-2018 17:07:29
+UTC date and time: 25-6-2018 00:07:29
+
+Nederlands (Aruba)
+Dutch (Aruba)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Nederlands (België)
+Dutch (Belgium)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 0:07:29
+
+Nederlands (Bonaire, Sint Eustatius en Saba)
+Dutch (Bonaire, Sint Eustatius and Saba)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Nederlands (Curaçao)
+Dutch (Curaçao)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Nederlands (Nederland)
+Dutch (Netherlands)
+Local date and time: 24-6-2018 17:07:29
+UTC date and time: 25-6-2018 00:07:29
+
+Nederlands (Suriname)
+Dutch (Suriname)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Nederlands (Sint-Maarten)
+Dutch (Sint Maarten)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Kwasio
+Kwasio
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Kwasio (Kamerun)
+Kwasio (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+nynorsk
+Norwegian Nynorsk
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+nynorsk (Noreg)
+Norwegian Nynorsk (Norway)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Shwóŋò ngiembɔɔn
+Ngiemboon
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Shwóŋò ngiembɔɔn (Kàmalûm)
+Ngiemboon (Cameroon)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+norsk
+Norwegian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+ߒߞߏ
+N'ko
+Local date and time: 24/06/2018 ߥ 05:07:29
+UTC date and time: 25/06/2018 ߛ 12:07:29
+
+ߒߞߏ (ߖߌ߬ߣߍ߬ ߞߊ߲ߓߍ߲)
+N'ko (Guinea)
+Local date and time: 24/06/2018 ߥ 05:07:29
+UTC date and time: 25/06/2018 ߛ 12:07:29
+
+isiNdebele
+South Ndebele
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+isiNdebele (South Africa)
+South Ndebele (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Sesotho sa Leboa
+Sesotho sa Leboa
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Sesotho sa Leboa (Afrika Borwa)
+Sesotho sa Leboa (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Thok Nath
+Nuer
+Local date and time: 24/06/2018 5:07:29 TŊ
+UTC date and time: 25/06/2018 12:07:29 RW
+
+Thok Nath (South Sudan)
+Nuer (South Sudan)
+Local date and time: 24/06/2018 5:07:29 TŊ
+UTC date and time: 25/06/2018 12:07:29 RW
+
+Runyankore
+Nyankole
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Runyankore (Uganda)
+Nyankole (Uganda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Occitan
+Occitan
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+Occitan (França)
+Occitan (France)
+Local date and time: 24/06/2018 17.07.29
+UTC date and time: 25/06/2018 00.07.29
+
+Oromoo
+Oromo
+Local date and time: 24/06/2018 5:07:29 WB
+UTC date and time: 25/06/2018 12:07:29 WD
+
+Oromoo (Itoophiyaa)
+Oromo (Ethiopia)
+Local date and time: 24/06/2018 5:07:29 WB
+UTC date and time: 25/06/2018 12:07:29 WD
+
+Oromoo (Keeniyaa)
+Oromo (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ଓଡ଼ିଆ
+Odia
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+ଓଡ଼ିଆ (ଭାରତ)
+Odia (India)
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+ирон
+Ossetic
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+ирон (Гуырдзыстон)
+Ossetic (Georgia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+ирон (Уӕрӕсе)
+Ossetic (Russia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+ਪੰਜਾਬੀ
+Punjabi
+Local date and time: 24-06-18 ਸ਼ਾਮ 05:07:29
+UTC date and time: 25-06-18 ਸਵੇਰ 12:07:29
+
+پنجابی
+Punjabi
+Local date and time: 24-06-18 5.07.29 PM
+UTC date and time: 25-06-18 12.07.29 AM
+
+پنجابی (پاکستان)
+Punjabi (Pakistan)
+Local date and time: 24-06-18 5.07.29 PM
+UTC date and time: 25-06-18 12.07.29 AM
+
+ਪੰਜਾਬੀ (ਭਾਰਤ)
+Punjabi (India)
+Local date and time: 24-06-18 ਸ਼ਾਮ 05:07:29
+UTC date and time: 25-06-18 ਸਵੇਰ 12:07:29
+
+Papiamentu
+Papiamento
+Local date and time: 24-6-2018 17:07:29
+UTC date and time: 25-6-2018 0:07:29
+
+Papiamentu (Caribbean)
+Papiamento (Caribbean)
+Local date and time: 24-6-2018 17:07:29
+UTC date and time: 25-6-2018 0:07:29
+
+polski
+Polish
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+polski (Polska)
+Polish (Poland)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+prūsiskan
+Prussian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+prūsiskan (swītai)
+Prussian (World)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+درى
+Dari
+Local date and time: 1397/4/3 5:07:29 غ.و
+UTC date and time: 1397/4/4 12:07:29 غ.م
+
+درى (افغانستان)
+Dari (Afghanistan)
+Local date and time: 1397/4/3 5:07:29 غ.و
+UTC date and time: 1397/4/4 12:07:29 غ.م
+
+پښتو
+Pashto
+Local date and time: 1397/4/3 17:07:29
+UTC date and time: 1397/4/4 0:07:29
+
+پښتو (افغانستان)
+Pashto (Afghanistan)
+Local date and time: 1397/4/3 17:07:29
+UTC date and time: 1397/4/4 0:07:29
+
+português
+Portuguese
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Angola)
+Portuguese (Angola)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Brasil)
+Portuguese (Brazil)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Suíça)
+Portuguese (Switzerland)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Cabo Verde)
+Portuguese (Cabo Verde)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Guiné Equatorial)
+Portuguese (Equatorial Guinea)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Guiné-Bissau)
+Portuguese (Guinea-Bissau)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Luxemburgo)
+Portuguese (Luxembourg)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (RAE de Macau)
+Portuguese (Macao SAR)
+Local date and time: 24/06/2018 5:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+português (Moçambique)
+Portuguese (Mozambique)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Portugal)
+Portuguese (Portugal)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (São Tomé e Príncipe)
+Portuguese (São Tomé and Príncipe)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+português (Timor-Leste)
+Portuguese (Timor-Leste)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+K'iche'
+K'iche'
+Local date and time: 24/06/2018 5:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+K'iche'
+K'iche'
+Local date and time: 24/06/2018 5:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+K'iche' (Guatemala)
+K'iche' (Guatemala)
+Local date and time: 24/06/2018 5:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+Runasimi
+Quechua
+Local date and time: 24/06/2018 05:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+Runasimi (Bolivia)
+Quechua (Bolivia)
+Local date and time: 24/06/2018 05:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+Runasimi (Ecuador)
+Quichua (Ecuador)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 0:07:29
+
+Runasimi (Perú)
+Quechua (Peru)
+Local date and time: 24/06/2018 05:07:29 p.m.
+UTC date and time: 25/06/2018 12:07:29 a.m.
+
+rumantsch
+Romansh
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+rumantsch (Svizra)
+Romansh (Switzerland)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Ikirundi
+Rundi
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Ikirundi (Uburundi)
+Rundi (Burundi)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+română
+Romanian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+română (Republica Moldova)
+Romanian (Moldova)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+română (România)
+Romanian (Romania)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Kihorombo
+Rombo
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kihorombo (Tanzania)
+Rombo (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+русский
+Russian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+русский (Беларусь)
+Russian (Belarus)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+русский (Киргизия)
+Russian (Kyrgyzstan)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+русский (Казахстан)
+Russian (Kazakhstan)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+русский (Молдова)
+Russian (Moldova)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+русский (Россия)
+Russian (Russia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+русский (Украина)
+Russian (Ukraine)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Kinyarwanda
+Kinyarwanda
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Kinyarwanda (Rwanda)
+Kinyarwanda (Rwanda)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Kiruwa
+Rwa
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kiruwa (Tanzania)
+Rwa (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+संस्कृत
+Sanskrit
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+संस्कृत (भारतम्)
+Sanskrit (India)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+Саха
+Sakha
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+Саха (Россия)
+Sakha (Russia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+Kisampur
+Samburu
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kisampur (Kenya)
+Samburu (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Ishisangu
+Sangu
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Ishisangu (Tansaniya)
+Sangu (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+سنڌي
+Sindhi
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+سنڌي
+Sindhi
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+سنڌي (پاکستان)
+Sindhi (Pakistan)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+सिन्धी
+Sindhi (Devanagari)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+सिन्धी (India)
+Sindhi (Devanagari, India)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+davvisámegiella
+Northern Sami
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+davvisámegiella (Suopma)
+Sami, Northern (Finland)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+davvisámegiella (Norga)
+Sami, Northern (Norway)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+davvisámegiella (Ruoŧŧa)
+Sami, Northern (Sweden)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+sena
+Sena
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+sena (Moçambique)
+Sena (Mozambique)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Koyraboro senni
+Koyraboro Senni
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Koyraboro senni (Maali)
+Koyraboro Senni (Mali)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Sängö
+Sango
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Sängö (Ködörösêse tî Bêafrîka)
+Sango (Central African Republic)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ⵜⴰⵛⵍⵃⵉⵜ
+Tachelhit
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Tashelḥiyt
+Tachelhit (Latin)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Tashelḥiyt (lmɣrib)
+Tachelhit (Latin, Morocco)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ⵜⴰⵛⵍⵃⵉⵜ
+Tachelhit (Tifinagh)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ⵜⴰⵛⵍⵃⵉⵜ (ⵍⵎⵖⵔⵉⴱ)
+Tachelhit (Tifinagh, Morocco)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+සිංහල
+Sinhala
+Local date and time: 2018-06-24 17.07.29
+UTC date and time: 2018-06-25 00.07.29
+
+සිංහල (ශ්‍රී ලංකාව)
+Sinhala (Sri Lanka)
+Local date and time: 2018-06-24 17.07.29
+UTC date and time: 2018-06-25 00.07.29
+
+slovenčina
+Slovak
+Local date and time: 24. 6. 2018 17:07:29
+UTC date and time: 25. 6. 2018 0:07:29
+
+slovenčina (Slovensko)
+Slovak (Slovakia)
+Local date and time: 24. 6. 2018 17:07:29
+UTC date and time: 25. 6. 2018 0:07:29
+
+slovenščina
+Slovenian
+Local date and time: 24. 06. 2018 17:07:29
+UTC date and time: 25. 06. 2018 00:07:29
+
+slovenščina (Slovenija)
+Slovenian (Slovenia)
+Local date and time: 24. 06. 2018 17:07:29
+UTC date and time: 25. 06. 2018 00:07:29
+
+åarjelsaemiengïele
+Sami (Southern)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+åarjelsaemiengïele (Nöörje)
+Sami, Southern (Norway)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+åarjelsaemiengïele (Sveerje)
+Sami, Southern (Sweden)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+julevusámegiella
+Sami (Lule)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+julevusámegiella (Vuodna)
+Sami, Lule (Norway)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+julevusámegiella (Svierik)
+Sami, Lule (Sweden)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+anarâškielâ
+Sami (Inari)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+anarâškielâ (Suomâ)
+Sami, Inari (Finland)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+sää´mǩiõll
+Sami (Skolt)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+sää´mǩiõll (Lää´ddjânnam)
+Sami, Skolt (Finland)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 0:07:29
+
+chiShona
+Shona
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+chiShona (Latin)
+Shona (Latin)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+chiShona (Zimbabwe)
+Shona (Latin, Zimbabwe)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Soomaali
+Somali
+Local date and time: 24/06/2018 5:07:29 gn.
+UTC date and time: 25/06/2018 12:07:29 sn.
+
+Soomaali (Jabuuti)
+Somali (Djibouti)
+Local date and time: 24/06/2018 5:07:29 gn.
+UTC date and time: 25/06/2018 12:07:29 sn.
+
+Soomaali (Itoobiya)
+Somali (Ethiopia)
+Local date and time: 24/06/2018 5:07:29 gn.
+UTC date and time: 25/06/2018 12:07:29 sn.
+
+Soomaali (Kiiniya)
+Somali (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Soomaali (Soomaaliya)
+Somali (Somalia)
+Local date and time: 24/06/2018 5:07:29 gn.
+UTC date and time: 25/06/2018 12:07:29 sn.
+
+shqip
+Albanian
+Local date and time: 24.6.2018 5:07:29 e pasdites
+UTC date and time: 25.6.2018 12:07:29 e paradites
+
+shqip (Shqipëri)
+Albanian (Albania)
+Local date and time: 24.6.2018 5:07:29 e pasdites
+UTC date and time: 25.6.2018 12:07:29 e paradites
+
+shqip (Republika e Maqedonisë)
+Albanian (Macedonia, FYRO)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 00:07:29
+
+shqip (Kosovë)
+Albanian (Kosovo)
+Local date and time: 24.6.2018 17:07:29
+UTC date and time: 25.6.2018 00:07:29
+
+srpski
+Serbian
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+српски
+Serbian (Cyrillic)
+Local date and time: 24.06.2018. 17:07:29
+UTC date and time: 25.06.2018. 0:07:29
+
+српски (Босна и Херцеговина)
+Serbian (Cyrillic, Bosnia and Herzegovina)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 0:07:29
+
+српски (Црна Гора)
+Serbian (Cyrillic, Montenegro)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 0:07:29
+
+српски (Србија)
+Serbian (Cyrillic, Serbia)
+Local date and time: 24.06.2018. 17:07:29
+UTC date and time: 25.06.2018. 0:07:29
+
+српски (Косово)
+Serbian (Cyrillic, Kosovo)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+srpski
+Serbian (Latin)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+srpski (Bosna i Hercegovina)
+Serbian (Latin, Bosnia and Herzegovina)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+srpski (Crna Gora)
+Serbian (Latin, Montenegro)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+srpski (Srbija)
+Serbian (Latin, Serbia)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+srpski (Kosovo)
+Serbian (Latin, Kosovo)
+Local date and time: 24.6.2018. 17:07:29
+UTC date and time: 25.6.2018. 00:07:29
+
+Siswati
+siSwati
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+siSwati (Swaziland)
+siSwati (Swaziland)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+siSwati (South Africa)
+siSwati (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Saho
+Saho
+Local date and time: 24/06/2018 5:07:29 carra
+UTC date and time: 25/06/2018 12:07:29 saaku
+
+Saho (Eretria)
+Saho (Eritrea)
+Local date and time: 24/06/2018 5:07:29 carra
+UTC date and time: 25/06/2018 12:07:29 saaku
+
+Sesotho
+Sesotho
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Sesotho (Lesotho)
+Sesotho (Lesotho)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Sesotho (South Africa)
+Sesotho (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+svenska
+Swedish
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+svenska (Åland)
+Swedish (Åland Islands)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+svenska (Finland)
+Swedish (Finland)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+svenska (Sverige)
+Swedish (Sweden)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Kiswahili
+Kiswahili
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kiswahili (Jamhuri ya Kidemokrasia ya Kongo)
+Kiswahili (Congo DRC)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kiswahili (Kenya)
+Kiswahili (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kiswahili (Tanzania)
+Kiswahili (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kiswahili (Uganda)
+Kiswahili (Uganda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ܣܘܪܝܝܐ
+Syriac
+Local date and time: 24/06/2018 05:07:29 ܒ.ܛ
+UTC date and time: 25/06/2018 12:07:29 ܩ.ܛ
+
+ܣܘܪܝܝܐ (ܣܘܪܝܐ)
+Syriac (Syria)
+Local date and time: 24/06/2018 05:07:29 ܒ.ܛ
+UTC date and time: 25/06/2018 12:07:29 ܩ.ܛ
+
+தமிழ்
+Tamil
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+தமிழ் (இந்தியா)
+Tamil (India)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 00:07:29
+
+தமிழ் (இலங்கை)
+Tamil (Sri Lanka)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+தமிழ் (மலேசியா)
+Tamil (Malaysia)
+Local date and time: 24/6/2018 பிற்பகல் 5:07:29
+UTC date and time: 25/6/2018 முற்பகல் 12:07:29
+
+தமிழ் (சிங்கப்பூர்)
+Tamil (Singapore)
+Local date and time: 24/6/2018 பிற்பகல் 5:07:29
+UTC date and time: 25/6/2018 முற்பகல் 12:07:29
+
+తెలుగు
+Telugu
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+తెలుగు (భారత దేశం)
+Telugu (India)
+Local date and time: 24-06-18 17:07:29
+UTC date and time: 25-06-18 00:07:29
+
+Kiteso
+Teso
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kiteso (Kenia)
+Teso (Kenya)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kiteso (Uganda)
+Teso (Uganda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Тоҷикӣ
+Tajik
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+тоҷикӣ
+Tajik (Cyrillic)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+тоҷикӣ (Тоҷикистон)
+Tajik (Cyrillic, Tajikistan)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+ไทย
+Thai
+Local date and time: 24/6/2561 17:07:29
+UTC date and time: 25/6/2561 0:07:29
+
+ไทย (ไทย)
+Thai (Thailand)
+Local date and time: 24/6/2561 17:07:29
+UTC date and time: 25/6/2561 0:07:29
+
+ትግርኛ
+Tigrinya
+Local date and time: 24/06/2018 5:07:29 ድሕር ሰዓት
+UTC date and time: 25/06/2018 12:07:29 ንጉሆ ሰዓተ
+
+ትግርኛ (ኤርትራ)
+Tigrinya (Eritrea)
+Local date and time: 24/06/2018 5:07:29 ድሕር ሰዓት
+UTC date and time: 25/06/2018 12:07:29 ንጉሆ ሰዓተ
+
+ትግርኛ (ኢትዮጵያ)
+Tigrinya (Ethiopia)
+Local date and time: 24/06/2018 5:07:29 ድሕር ሰዓት
+UTC date and time: 25/06/2018 12:07:29 ንጉሆ ሰዓተ
+
+ትግረ
+Tigre
+Local date and time: 24/06/2018 5:07:29 ሓቆ ስርምዕል
+UTC date and time: 25/06/2018 12:07:29 ቀደም ሰርምዕል
+
+ትግረ (ኤርትራ)
+Tigre (Eritrea)
+Local date and time: 24/06/2018 5:07:29 ሓቆ ስርምዕል
+UTC date and time: 25/06/2018 12:07:29 ቀደም ሰርምዕል
+
+Türkmen dili
+Turkmen
+Local date and time: 24.06.18 ý. 17:07:29
+UTC date and time: 25.06.18 ý. 00:07:29
+
+Türkmen dili (Türkmenistan)
+Turkmen (Turkmenistan)
+Local date and time: 24.06.18 ý. 17:07:29
+UTC date and time: 25.06.18 ý. 00:07:29
+
+Setswana
+Setswana
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Setswana (Botswana)
+Setswana (Botswana)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Setswana (Aforika Borwa)
+Setswana (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+lea fakatonga
+Tongan
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+lea fakatonga (Tonga)
+Tongan (Tonga)
+Local date and time: 24/6/2018 5:07:29 PM
+UTC date and time: 25/6/2018 12:07:29 AM
+
+Türkçe
+Turkish
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Türkçe (Kıbrıs)
+Turkish (Cyprus)
+Local date and time: 24.06.2018 5:07:29 ÖS
+UTC date and time: 25.06.2018 12:07:29 ÖÖ
+
+Türkçe (Türkiye)
+Turkish (Turkey)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Xitsonga
+Tsonga
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Xitsonga (South Africa)
+Xitsonga (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Татар
+Tatar
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Татар (Россия)
+Tatar (Russia)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 00:07:29
+
+Tasawaq senni
+Tasawaq
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Tasawaq senni (Nižer)
+Tasawaq (Niger)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Tamaziɣt n laṭlaṣ
+Central Atlas Tamazight
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+أطلس المركزية التامازيتية
+Central Atlas Tamazight (Arabic)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+أطلس المركزية التامازيتية (Morocco)
+Central Atlas Tamazight (Arabic, Morocco)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+Tamaziɣt n laṭlaṣ
+Central Atlas Tamazight (Latin)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+Tamaziɣt n laṭlaṣ (Djazaïr)
+Central Atlas Tamazight (Latin, Algeria)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+Tamaziɣt n laṭlaṣ (Meṛṛuk)
+Central Atlas Tamazight (Latin, Morocco)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ⵜⴰⵎⴰⵣⵉⵖⵜ
+Central Atlas Tamazight (Tifinagh)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)
+Central Atlas Tamazight (Tifinagh, Morocco)
+Local date and time: 24-06-2018 17:07:29
+UTC date and time: 25-06-2018 0:07:29
+
+ئۇيغۇرچە
+Uyghur
+Local date and time: 2018-6-24 17:07:29
+UTC date and time: 2018-6-25 0:07:29
+
+ئۇيغۇرچە (جۇڭخۇا خەلق جۇمھۇرىيىتى)
+Uyghur (China)
+Local date and time: 2018-6-24 17:07:29
+UTC date and time: 2018-6-25 0:07:29
+
+українська
+Ukrainian
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+українська (Україна)
+Ukrainian (Ukraine)
+Local date and time: 24.06.2018 17:07:29
+UTC date and time: 25.06.2018 0:07:29
+
+اُردو
+Urdu
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+اردو (بھارت)
+Urdu (India)
+Local date and time: 24/6/18 5:07:29 رات
+UTC date and time: 25/6/18 12:07:29 دن
+
+اُردو (پاکستان)
+Urdu (Pakistan)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+o‘zbek
+Uzbek
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+اوزبیک
+Uzbek (Perso-Arabic)
+Local date and time: 03/04 1397 17:07:29
+UTC date and time: 04/04 1397 0:07:29
+
+اوزبیک (افغانستان)
+Uzbek (Perso-Arabic, Afghanistan)
+Local date and time: 03/04 1397 17:07:29
+UTC date and time: 04/04 1397 0:07:29
+
+ўзбекча
+Uzbek (Cyrillic)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ўзбекча (Ўзбекистон)
+Uzbek (Cyrillic, Uzbekistan)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+o‘zbek
+Uzbek (Latin)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+o‘zbek (Oʻzbekiston)
+Uzbek (Latin, Uzbekistan)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ꕙꔤ
+Vai
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+Vai
+Vai (Latin)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+Vai (Laibhiya)
+Vai (Latin, Liberia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+ꕙꔤ
+Vai (Vai)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+ꕙꔤ (ꕞꔤꔫꕩ)
+Vai (Vai, Liberia)
+Local date and time: 24/06/2018 5:07:29 PM
+UTC date and time: 25/06/2018 12:07:29 AM
+
+Tshivenḓa
+Venda
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Tshivenḓa (South Africa)
+Venda (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Tiếng Việt
+Vietnamese
+Local date and time: 24/06/2018 5:07:29 CH
+UTC date and time: 25/06/2018 12:07:29 SA
+
+Tiếng Việt (Việt Nam)
+Vietnamese (Vietnam)
+Local date and time: 24/06/2018 5:07:29 CH
+UTC date and time: 25/06/2018 12:07:29 SA
+
+Volapük
+Volapük
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Volapük (World)
+Volapük (World)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Kyivunjo
+Vunjo
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Kyivunjo (Tanzania)
+Vunjo (Tanzania)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Walser
+Walser
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Walser (Schwiz)
+Walser (Switzerland)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+ወላይታቱ
+Wolaytta
+Local date and time: 24/06/2018 5:07:29 ቃማ
+UTC date and time: 25/06/2018 12:07:29 ማለዶ
+
+ወላይታቱ (ኢትዮጵያ)
+Wolaytta (Ethiopia)
+Local date and time: 24/06/2018 5:07:29 ቃማ
+UTC date and time: 25/06/2018 12:07:29 ማለዶ
+
+Wolof
+Wolof
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Wolof (Senegaal)
+Wolof (Senegal)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+isiXhosa
+isiXhosa
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+isiXhosa (eMzantsi Afrika)
+isiXhosa (South Africa)
+Local date and time: 2018-06-24 17:07:29
+UTC date and time: 2018-06-25 00:07:29
+
+Olusoga
+Soga
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Olusoga (Yuganda)
+Soga (Uganda)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+nuasue
+Yangben
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+nuasue (Kemelún)
+Yangben (Cameroon)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ייִדיש
+Yiddish
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ייִדיש (וועלט)
+Yiddish (World)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Èdè Yorùbá
+Yoruba
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Èdè Yorùbá (Orílɛ́ède Bɛ̀nɛ̀)
+Yoruba (Benin)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+Èdè Yorùbá (Orílẹ́ède Nàìjíríà)
+Yoruba (Nigeria)
+Local date and time: 24/06/2018 17:07:29
+UTC date and time: 25/06/2018 00:07:29
+
+ⵜⴰⵎⴰⵣⵉⵖⵜ
+Standard Moroccan Tamazight
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ⵜⴰⵎⴰⵣⵉⵖⵜ
+Standard Moroccan Tamazight (Tifinagh)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)
+Standard Moroccan Tamazight (Tifinagh, Morocco)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 00:07:29
+
+中文
+Chinese
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 0:07:29
+
+中文(中国)
+Chinese (Simplified, China)
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 0:07:29
+
+中文(简体)
+Chinese (Simplified)
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 0:07:29
+
+中文 (香港特别行政区)
+Chinese (Simplified Han, Hong Kong SAR)
+Local date and time: 24/6/2018 下午5:07:29
+UTC date and time: 25/6/2018 上午12:07:29
+
+中文 (澳门特别行政区)
+Chinese (Simplified Han, Macao SAR)
+Local date and time: 24/6/2018 下午5:07:29
+UTC date and time: 25/6/2018 上午12:07:29
+
+中文(繁體)
+Chinese (Traditional)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+中文(香港特別行政區)
+Chinese (Traditional, Hong Kong SAR)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+中文(澳門特別行政區)
+Chinese (Traditional, Macao SAR)
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29
+
+中文(新加坡)
+Chinese (Simplified, Singapore)
+Local date and time: 24/6/2018 下午 5:07:29
+UTC date and time: 25/6/2018 上午 12:07:29
+
+中文(台灣)
+Chinese (Traditional, Taiwan)
+Local date and time: 2018/6/24 下午 05:07:29
+UTC date and time: 2018/6/25 上午 12:07:29
+
+isiZulu
+isiZulu
+Local date and time: 6/24/2018 17:07:29
+UTC date and time: 6/25/2018 00:07:29
+
+isiZulu (i-South Africa)
+isiZulu (South Africa)
+Local date and time: 6/24/2018 17:07:29
+UTC date and time: 6/25/2018 00:07:29
+
+中文(简体) 旧版
+Chinese (Simplified) Legacy
+Local date and time: 2018/6/24 17:07:29
+UTC date and time: 2018/6/25 0:07:29
+
+中文(繁體) 舊版
+Chinese (Traditional) Legacy
+Local date and time: 24/6/2018 17:07:29
+UTC date and time: 25/6/2018 0:07:29

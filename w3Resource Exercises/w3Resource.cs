@@ -1,6 +1,52 @@
 ﻿
 
+//DateTime #5 -- get a DateTime value that represents the current date and time on the local computer.
+//this tutorial actually focuses on Globalization & CultureInfo
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.IO;
 
+namespace cFun
+{
+    class Program
+    {
+        static void Main()
+        {
+            DateTime dateLocal = DateTime.Now;
+            DateTime dateUtc = DateTime.UtcNow;
+            //string[] cultures = { "en-IE", "en-ZA", "fr-CA", "de-CH", "ro-RO" };
+
+            var cultureList = CultureInfo.GetCultures(CultureTypes.AllCultures);
+
+            Stream fs = new FileStream(@"C:\Users\rloyd\source\repos\w3Resource Exercises\culture_list.txt", FileMode.Create, FileAccess.Write, FileShare.None);
+            StreamWriter sw = new StreamWriter(fs);
+
+            foreach(var v in cultureList)
+            {
+                Console.WriteLine(v);
+                var culture = new CultureInfo(v.ToString());
+
+                WriteText("", sw);
+                WriteText($"{culture.NativeName}", sw);
+                WriteText($"{culture.EnglishName}", sw);
+                WriteText($"Local date and time: {dateLocal.ToString(culture)}", sw);
+                WriteText($"UTC date and time: {dateUtc.ToString(culture)}", sw);
+            }
+
+            sw.Close();
+            fs.Close();
+
+            Console.ReadKey();
+        }
+
+        static void WriteText(string input, StreamWriter sw)
+        {
+            Console.WriteLine(input);
+            sw.WriteLine(input);
+        }
+    }
+}
 
 
 /*
