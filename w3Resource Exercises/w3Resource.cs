@@ -1,7 +1,10 @@
 ﻿
 
+
+
 //DateTime #5 -- get a DateTime value that represents the current date and time on the local computer.
 //this tutorial actually focuses on Globalization & CultureInfo
+//implemented the WriteText function from my earlier IO exercise to dump all the language info to a text file.
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -15,7 +18,6 @@ namespace cFun
         {
             DateTime dateLocal = DateTime.Now;
             DateTime dateUtc = DateTime.UtcNow;
-            //string[] cultures = { "en-IE", "en-ZA", "fr-CA", "de-CH", "ro-RO" };
 
             var cultureList = CultureInfo.GetCultures(CultureTypes.AllCultures);
 
