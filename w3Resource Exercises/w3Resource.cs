@@ -1,7 +1,179 @@
 ﻿
 
 
+//Structure #2 --  Practice w/ pantsu
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
+namespace cFun
+{
+    class Program
+    {
+        static void Main()
+        {
+            Pantsu Gabriel = new Pantsu(nameof(Gabriel), "silk", "golden", "thong", 3);
+            Pantsu Ariel = new Pantsu(nameof(Ariel), "latex", "indigo", "boyshorts", 4);
+            Pantsu Jezzabelle = new Pantsu(nameof(Jezzabelle), "cotton", "rainbow-striped", "bikini", 2);
+
+            PantsuCollection myPantsu = new PantsuCollection() { };
+
+            Pantsu.Collect(Gabriel, myPantsu);
+            Pantsu.Collect(Ariel, myPantsu);
+            Pantsu.Collect(Jezzabelle, myPantsu);
+
+            Pantsu.DisplayPantsu();
+
+            Console.WriteLine();
+
+            for(var i = 0; i < 10; i++)
+            {
+                PantsuCollection.RandomPair();
+            }
+            
+            Console.ReadKey();
+        }
+
+        public struct Pantsu
+        {
+            public string Owner;
+            public string Material;
+            public string Color;
+            public string Style;
+            public int Size;
+
+            public Pantsu(string owner, string material, string color, string style, int size)
+            {
+                Owner = owner;
+                Material = material;
+                Color = color;
+                Style = style;
+                Size = size;
+            }
+
+            private static List<Pantsu> pantsuList;
+
+            public static void Collect(Pantsu pantsu, PantsuCollection panColle)
+            {
+                if(pantsuList == null)
+                {
+                    pantsuList = new List<Pantsu>();
+                }
+                pantsuList.Add(pantsu);
+
+                PantsuCollection.Catalogue(pantsu, panColle);
+            }
+
+            public static void DisplayPantsu()
+            {
+                foreach(Pantsu p in pantsuList)
+                {
+                    Console.WriteLine($"{p.Owner} is wearing{(p.Style.Last() == 's' ? "" : " a")} size {p.Size} {p.Color} {p.Material} {p.Style}.");
+                }
+            }      
+
+        }
+
+        public class PantsuCollection
+        {
+            public static string[] Owners;
+            private static string[] Materials;
+            private static string[] Colors;
+            private static string[] Styles;
+            private static string[] Sizes;
+            private static int Counts;
+            private static Random rnd = new Random();
+
+            public PantsuCollection()
+            {
+                Owners = new string[0];
+                Materials = new string[0];
+                Colors = new string[0];
+                Styles = new string[0];
+                Sizes = new string[0];
+            }
+
+            private static Dictionary<string, string[]> pantsuPendium;
+
+            public static void Catalogue(Pantsu pantsu, PantsuCollection panColle)
+            {
+                if (pantsuPendium == null)
+                {
+                    pantsuPendium = new Dictionary<string, string[]>();
+                    pantsuPendium.Add("Owner", Owners);
+                    pantsuPendium.Add("Materials", Materials);
+                    pantsuPendium.Add("Colors", Colors);
+                    pantsuPendium.Add("Styles", Styles);
+                    pantsuPendium.Add("Sizes", (Sizes));
+                }
+
+                Counts++;
+                Array.Resize(ref Owners, Counts);
+                Owners[Counts-1] = pantsu.Owner;
+                Array.Resize(ref Materials,Counts);
+                Materials[Counts-1] = pantsu.Material;
+                Array.Resize(ref Colors, Counts);
+                Colors[Counts-1] = pantsu.Color;
+                Array.Resize(ref Styles, Counts);
+                Styles[Counts-1] = pantsu.Style;
+                Array.Resize(ref Sizes, Counts);
+                Sizes[Counts-1] = Convert.ToString(pantsu.Size);
+                
+
+                pantsuPendium["Owner"] = Owners;
+                pantsuPendium["Materials"] = Materials;
+                pantsuPendium["Colors"] = Colors;
+                pantsuPendium["Styles"] = Styles;
+                pantsuPendium["Sizes"] = Sizes;
+
+            }
+
+            public static void RandomPair()
+            {
+                int style = rnd.Next(0, Styles.Length);
+                Console.WriteLine($"{Owners[rnd.Next(0,Owners.Length)]} is wearing{(Styles[style].Last() == 's' ? "" : " a")} " +
+                    $"size {Sizes[rnd.Next(0,Sizes.Length)]} {Colors[rnd.Next(0,Colors.Length)]} " +
+                    $"{Materials[rnd.Next(0,Materials.Length)]} {Styles[style]}." );
+            }
+        }
+    }
+}
+
+/*
+//Structure #2 --  declare a simple structure and use of static fields inside a struct
+using System;
+using System.Collections.Generic;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main()
+        {
+
+            Console.WriteLine($"The sum of {xAndy.x} and {xAndy.y} is {xAndy.Sum()}.");
+
+            Console.ReadKey();
+        }
+
+        public struct xAndy
+        {
+            public static int x = 15;
+            public static int y = 25;
+
+            static xAndy() { }
+
+            public static int Sum()
+            {
+                return x + y;
+            }
+
+        }      
+    }
+}
+
+
+/*
 //DateTime #5 -- get a DateTime value that represents the current date and time on the local computer.
 //this tutorial actually focuses on Globalization & CultureInfo
 //implemented the WriteText function from my earlier IO exercise to dump all the language info to a text file.
