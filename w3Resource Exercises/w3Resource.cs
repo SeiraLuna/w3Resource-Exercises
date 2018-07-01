@@ -1,10 +1,52 @@
 ﻿
 
+//Structure #4 -- create a structure and Assign the Value and call it.
+//supposed to create a structure and a class, initilize their values, copy them each to new struct and new class
+//then change the values of the original and print the values from the copies to witness the differences.
 
-//Structure #2 --  Practice w/ pantsu
 using System;
-using System.Collections.Generic;
-using System.Linq;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            NumStruct numStruct = new NumStruct();
+            numStruct.X = 75;
+            numStruct.Y = 95;
+            NumStruct numStruct2 = numStruct;
+            numStruct.X = 750;
+            numStruct.Y = 950;
+            Console.WriteLine($"Assigned in Structure:  X:{numStruct2.X}    Y:{numStruct2.Y}");
+
+            NumClass numClass = new NumClass();
+            numClass.X = 750;
+            numClass.Y = 950;
+            NumClass numClass2 = numClass;
+            numClass.X = 7500;
+            numClass.Y = 9500;
+            Console.WriteLine($"Assigned in Class:  X:{numClass2.X} Y:{numClass2.Y}");
+
+            Console.ReadKey();
+        }
+        public struct NumStruct
+        {
+            public int X;
+            public int Y;
+        }
+        public class NumClass
+        {
+            public int X;
+            public int Y;
+        }
+    }
+}
+
+
+/*
+//Structure #3 -- create a nested struct to store two data for an employee in an array.
+using System;
 
 namespace cFun
 {
@@ -12,132 +54,95 @@ namespace cFun
     {
         static void Main()
         {
-            Pantsu Gabriel = new Pantsu(nameof(Gabriel), "silk", "golden", "thong", 3);
-            Pantsu Ariel = new Pantsu(nameof(Ariel), "latex", "indigo", "boyshorts", 4);
-            Pantsu Jezzabelle = new Pantsu(nameof(Jezzabelle), "cotton", "rainbow-striped", "bikini", 2);
+            Employee[] Employees;
+            int numberToAdd = 0;
 
-            PantsuCollection myPantsu = new PantsuCollection() { };
+            Console.Write($"Hello, how many employees would you like to add? ");
 
-            Pantsu.Collect(Gabriel, myPantsu);
-            Pantsu.Collect(Ariel, myPantsu);
-            Pantsu.Collect(Jezzabelle, myPantsu);
-
-            Pantsu.DisplayPantsu();
-
-            Console.WriteLine();
-
-            for(var i = 0; i < 10; i++)
+            while(numberToAdd == 0)
             {
-                PantsuCollection.RandomPair();
+                try
+                {
+                    numberToAdd = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("The number you have entered is invalid. " +
+                        "Please enter the number of employees you would like to add: ");
+                }
             }
             
+            Employees = new Employee[numberToAdd];
+
+            for (var i = 0; i < Employees.Length; i++)
+            {
+                Employees[i] = new Employee();
+                Console.Write($"Please enter the name of Employee #{i + 1}: ");
+                Employees[i].Name = Console.ReadLine();
+
+                Employees[i].Birthdate = new DoB();
+
+                Employees[i].Birthdate.Read(Employees[i].Name, ref Employees[i].Birthdate.year, "year");
+                Employees[i].Birthdate.Read(Employees[i].Name, ref Employees[i].Birthdate.month, "month");
+                Employees[i].Birthdate.Read(Employees[i].Name, ref Employees[i].Birthdate.day, "day");              
+                
+            }
+
+            foreach(Employee e in Employees)
+            {
+                Console.WriteLine(e.ToString());
+            }
+
             Console.ReadKey();
         }
 
-        public struct Pantsu
+        
+
+        public struct Employee
         {
-            public string Owner;
-            public string Material;
-            public string Color;
-            public string Style;
-            public int Size;
+            public string Name;
+            public DoB Birthdate;
 
-            public Pantsu(string owner, string material, string color, string style, int size)
+            public override string ToString()
             {
-                Owner = owner;
-                Material = material;
-                Color = color;
-                Style = style;
-                Size = size;
+                return ($"Employee: {this.Name} " +
+                    $"\nDay of Birth: {this.Birthdate.day} " +
+                    $"\nMonth of Birth: {this.Birthdate.month}" +
+                    $"\nYear of Birth: {this.Birthdate.year}");
             }
-
-            private static List<Pantsu> pantsuList;
-
-            public static void Collect(Pantsu pantsu, PantsuCollection panColle)
-            {
-                if(pantsuList == null)
-                {
-                    pantsuList = new List<Pantsu>();
-                }
-                pantsuList.Add(pantsu);
-
-                PantsuCollection.Catalogue(pantsu, panColle);
-            }
-
-            public static void DisplayPantsu()
-            {
-                foreach(Pantsu p in pantsuList)
-                {
-                    Console.WriteLine($"{p.Owner} is wearing{(p.Style.Last() == 's' ? "" : " a")} size {p.Size} {p.Color} {p.Material} {p.Style}.");
-                }
-            }      
-
         }
 
-        public class PantsuCollection
+        public struct DoB
         {
-            public static string[] Owners;
-            private static string[] Materials;
-            private static string[] Colors;
-            private static string[] Styles;
-            private static string[] Sizes;
-            private static int Counts;
-            private static Random rnd = new Random();
+            public int day;
+            public int month;
+            public int year;
 
-            public PantsuCollection()
+            public void Read(string name, ref int param, string unit)
             {
-                Owners = new string[0];
-                Materials = new string[0];
-                Colors = new string[0];
-                Styles = new string[0];
-                Sizes = new string[0];
-            }
-
-            private static Dictionary<string, string[]> pantsuPendium;
-
-            public static void Catalogue(Pantsu pantsu, PantsuCollection panColle)
-            {
-                if (pantsuPendium == null)
+                while (param == 0)
                 {
-                    pantsuPendium = new Dictionary<string, string[]>();
-                    pantsuPendium.Add("Owner", Owners);
-                    pantsuPendium.Add("Materials", Materials);
-                    pantsuPendium.Add("Colors", Colors);
-                    pantsuPendium.Add("Styles", Styles);
-                    pantsuPendium.Add("Sizes", (Sizes));
+                    Console.Write($"Please enter the {unit} of birth of {name} as a two digit number: ");
+                    try
+                    {
+                        param = Convert.ToInt32(Console.ReadLine());
+                        if ((unit == "month" && (param > 12 || param < 1)) || (unit == "day" && (param > 31 || param < 1)))
+                        {
+                            param = 0;
+                            Console.WriteLine("Your entry was invalid.");
+                        }
+                    }
+                    catch
+                    {
+                        Console.WriteLine("Your entry was invalid.");
+                    }
                 }
-
-                Counts++;
-                Array.Resize(ref Owners, Counts);
-                Owners[Counts-1] = pantsu.Owner;
-                Array.Resize(ref Materials,Counts);
-                Materials[Counts-1] = pantsu.Material;
-                Array.Resize(ref Colors, Counts);
-                Colors[Counts-1] = pantsu.Color;
-                Array.Resize(ref Styles, Counts);
-                Styles[Counts-1] = pantsu.Style;
-                Array.Resize(ref Sizes, Counts);
-                Sizes[Counts-1] = Convert.ToString(pantsu.Size);
-                
-
-                pantsuPendium["Owner"] = Owners;
-                pantsuPendium["Materials"] = Materials;
-                pantsuPendium["Colors"] = Colors;
-                pantsuPendium["Styles"] = Styles;
-                pantsuPendium["Sizes"] = Sizes;
-
-            }
-
-            public static void RandomPair()
-            {
-                int style = rnd.Next(0, Styles.Length);
-                Console.WriteLine($"{Owners[rnd.Next(0,Owners.Length)]} is wearing{(Styles[style].Last() == 's' ? "" : " a")} " +
-                    $"size {Sizes[rnd.Next(0,Sizes.Length)]} {Colors[rnd.Next(0,Colors.Length)]} " +
-                    $"{Materials[rnd.Next(0,Materials.Length)]} {Styles[style]}." );
             }
         }
     }
 }
+
+
 
 /*
 //Structure #2 --  declare a simple structure and use of static fields inside a struct
