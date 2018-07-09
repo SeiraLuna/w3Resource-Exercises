@@ -1,5 +1,664 @@
 ﻿
 
+//Function #5 --  calculate the sum of elements in an array
+//Recursion #12 -- find the LCM and GCD of two numbers using recursion.
+//LINQ #7 -- display numbers, multiplication of number with frequency and frequency of a number of giving array.
+using System;
+using System.Collections;
+using System.Linq;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] nums1;
+            int[] nums2;
+            int sum1;
+            int sum2;
+
+            Console.Write("Please enter the number of integers to store in each array: ");
+            nums1 = new int[Convert.ToInt32(Console.ReadLine())];
+            nums2 = new int[nums1.Length];
+            Console.Clear();
+
+            GetNums(nums1, "1st");
+            Console.Clear();
+            GetNums(nums2, "2nd");
+            Console.Clear();
+
+            sum1 = Sum(nums1, "1st");
+            sum2 = Sum(nums2, "2nd");
+                        
+            LCM(sum1, sum2, GCD(sum1, sum2));
+
+            Frequency(nums1, "1st");
+            Frequency(nums2, "2nd");
+
+            Console.ReadKey();
+        }
+
+        public static void GetNums(int[] nums, string place)
+        {
+            for(var i = 0; i < nums.Length; i++)
+            {
+                Console.WriteLine($"Okay, let's populate the {place} array!");
+                try
+                {
+                    Console.Write($"Please enter the value for element {i} of the array: ");
+                    nums[i] = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("That's not a valid entry!");
+                    i--;
+                }
+            }
+        }
+
+        public static int Sum(int[] nums, string place)
+        {
+            int sum = 0;
+            for(var i = 0; i < nums.Length; i++)
+            {
+                sum += nums[i];
+            }
+            Console.WriteLine($"The sum of the numbers in the {place} array is: {sum}");
+            return sum;
+        }
+
+        public static int GCD(int num1, int num2, int numGCD = 1, int factor = 1)
+        {
+            if (num1 % factor == 0 && num2 % factor == 0)
+                numGCD = factor;
+            if (factor < num1 && factor < num2)
+                return GCD(num1, num2, numGCD, factor + 1);
+            else
+                Console.WriteLine($"The GCD of {num1} and {num2} is: {numGCD}");
+            return numGCD;
+        }
+
+        public static int[] Multiples(int num)
+        {
+            ArrayList multiples = new ArrayList();
+            for(var i = 1; i <= num/2; i++)
+            {
+                if (num % i == 0)
+                    multiples.Add(i);
+            }
+            multiples.Add(num);
+            
+            Console.WriteLine($"The multiples of {num} are: " + string.Join(", ", multiples.ToArray()));
+            return (int[])multiples.ToArray(typeof(int));
+        }
+
+        public static void LCM(int num1, int num2, int GCD)
+        {
+            Multiples(num1);
+            Multiples(num2);
+
+            Console.WriteLine($"The LCM of {num1} and {num2} is: {(num1*num2)/GCD}");
+        }
+
+        public static void Frequency(int[] nums, string place)
+        {
+            var numSet = from n in nums group n by n into y select y;
+
+            Console.WriteLine($"{place} Array:");
+            Console.WriteLine($"Number\t   |\tFrequency\t|\tNumber*Frequency");
+            foreach(var v in numSet)
+            {
+                Console.WriteLine($"   {v.Key}\t\t   {v.Count()}\t\t\t\t{v.Sum()}");
+            }
+        }
+    }
+}
+
+
+/*
+//Function #4 -- create a function to input a string and count number of spaces are in the string
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please enter a string: ");
+            string input = Console.ReadLine();
+
+            Console.WriteLine($"The string that you entered contains {SpaceCount(input)} spaces.");
+
+            Console.ReadKey();
+        }
+
+        public static int SpaceCount(string str)
+        {
+            int count = 0;
+            for(var i = 0; i < str.Length; i++)
+            {
+                if (str[i] == ' ')
+                    ++count;
+            }
+            return count;
+        }
+    }
+}
+
+
+/*
+//Function #3 -- create a function for the sum of two numbers
+using System;
+using System.Linq.Expressions;
+using System.Runtime.CompilerServices;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int num1 = 0, num2 = 0;
+
+            num1 = GetNum(num1);
+            num2 = GetNum(num2);
+
+            Console.WriteLine(Add(ref num1, ref num2));
+
+            Console.ReadKey();
+        }
+
+        public static int GetNum(int num)
+        {
+            while(num == 0)
+            {
+                try
+                {
+                    Console.Write("Please enter a number: ");
+                    num = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("That's not a valid entry!");
+                }
+            }
+            return num;
+        }
+
+        public static T Add<T>(ref T param1, ref T param2)
+        {
+            var x = Expression.Parameter(typeof(T), "param1");
+            var y = Expression.Parameter(typeof(T), "param2");
+
+            BinaryExpression expression = Expression.Add(x, y);
+
+            Func<T, T, T> add = Expression.Lambda<Func<T, T, T>>(expression, x, y).Compile();
+
+            return add(param1, param2);
+        }
+
+    }
+}
+
+
+
+/*
+//Recursion #11 --  generate all possible permutations of an array using recursion.
+//LINQ #6 -- display the name of the days of a week.
+//Date Time #11 --  add a number of whole and fractional values to a date and time.
+//Function #2 -- create a user define function with parameters.
+using System;
+using System.Collections;
+using System.Linq;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] DaysOfWeek = { "sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "staurday" };
+            ArrayList arrayList = new ArrayList();
+            int[] nums = { 1, 2, 3, 4 };
+            TimeSpan timeSpan = new TimeSpan(864000000000);
+            DateTime[] Dates = new DateTime[7];
+
+            for(var i = 0; i < Dates.Length; i++)
+            {
+                Dates[i] = DateTime.Now + MultiplyTime(i, timeSpan);
+            }
+
+            var weekdays = from days in Dates select days.DayOfWeek;
+
+            string[] stringDays = new string[Dates.Length];
+            int counts = 0;
+
+            foreach (var v in weekdays)
+            {
+                Console.WriteLine(v);
+                stringDays[counts] = v.ToString();
+                ++counts; 
+            }
+
+            Permute(ref nums, nums.Length-1, 6, 1, arrayList);
+
+            Console.WriteLine();
+
+            Console.WriteLine(arrayList.ToArray().Count());
+
+            var perms = arrayList.ToArray().Distinct(); //checks for unique permutations
+            int uniques = 0; //unique counter
+            foreach(var v in perms)
+            {
+                Console.WriteLine(v); ;
+                ++uniques;
+            }
+            Console.WriteLine(perms.Count()); //result indicates that algorithm does not work for sets larger than 3.
+
+            Console.WriteLine($"\nTotal unique permutations: {uniques}");
+
+            Console.ReadKey();
+        }
+
+        public static TimeSpan MultiplyTime (int multiplier, TimeSpan timeSpan)
+        {
+            long product = 0;
+            for(var i = 0; i < multiplier; i++)
+            {
+                product += Convert.ToInt64(timeSpan.Ticks); //increments timespan by timespan as int64
+            }
+
+            TimeSpan timeSpanProduct = new TimeSpan(product);
+          
+            return timeSpanProduct;
+        }
+
+        public static void Permute<T>(ref T[] array, int index, int permutations, int count, ArrayList arrayList)
+        {
+            T temp = array[index];
+            if (index + 1 == array.Length) //swaps last with first if swap position is at end of array
+            {
+                array[index] = array[0];
+                array[0] = temp;
+            }
+            else //swaps position with next, resulting in moving first backward through array
+            {
+                array[index] = array[index + 1];
+                array[index + 1] = temp;
+            }
+            Console.WriteLine();
+            Console.Write(count + " - ");
+            foreach (var v in array)
+            {
+                Console.Write(v + ", ");
+            }
+            arrayList.Add(string.Join(", ",array));
+            count++; //for confirming the number of permutations
+            if (index == 0) //resets index to end to continue permutations
+            {
+                --permutations;
+                index = array.Length;
+            }
+            if (permutations > 0 && index > -1)
+                Permute(ref array, index-1, permutations, count, arrayList);
+        }
+    }
+}
+
+
+/*
+//Function #1 -- create a user define function.
+//Structure #6 --  declares a struct with a property, a method, and a private field.
+//File Handling #3 --  create a blank file in the disk if the same file already exists
+//File Handling #2 -- remove a file from the disk
+using System;
+using System.IO;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            User[] users = new User[10];
+            User user = new User();
+
+            Console.Write("Please enter your name: ");
+
+            user.Name = Console.ReadLine();
+            user.Hashthis(user.Name);
+
+            Greet(user.Name);
+            user.GetBirthday();
+
+            users[user.Hashthis(user.Name)] = user;
+
+            string filepath = @"C:\Users\rloyd\source\repos\w3Resource Exercises\w3Resource Exercises\";
+            try
+            {
+                Stream fs = new FileStream(filepath + "userList.txt", FileMode.CreateNew, FileAccess.Write, FileShare.None);
+                StreamWriter sw = new StreamWriter(fs);
+                sw.Write(user.ToString());
+                sw.Close();
+                fs.Close();
+            }
+            catch
+            {
+                Stream fs = new FileStream(filepath + "blank.txt", FileMode.Create, FileAccess.Write, FileShare.None);
+                StreamWriter sw = new StreamWriter(fs);
+                sw.Write(user.ToString());
+                sw.Close();
+                fs.Close();
+                File.Delete(filepath + "userList.txt");
+            }
+
+
+
+            Console.WriteLine(user.ToString());
+
+            Console.ReadKey();
+        }
+
+        public struct User
+        {
+            public string Name;
+            public DateTime Birthday;
+            public int Age;
+            private int ID;
+            
+            public int Hashthis(string name)
+            {
+                int sum = 0;
+                foreach (char c in name)
+                {
+                    sum += Convert.ToInt32(c);
+                }
+                ID = (sum) % 9;
+                return ID;
+            }
+
+            public void GetBirthday()
+            {
+                int year;
+                int month;
+                int day;
+                Console.WriteLine($"Okay, {Name}, let's get your birthday in here!");
+
+                Console.Write("Please enter the year of your birth ^^: ");
+                year = Convert.ToInt32(Console.ReadLine());
+
+                Console.Write("Please enter the month of your birth ^^: ");
+                month = Convert.ToInt32(Console.ReadLine());
+
+                Console.Write("Please enter the day of your birth ^^: ");
+                day = Convert.ToInt32(Console.ReadLine());
+
+                this.Birthday = new DateTime(year, month, day);
+
+                TimeSpan age = DateTime.Now - Birthday;
+
+                Age = Convert.ToInt32((age.TotalDays-age.TotalDays%365)/365);
+            }
+
+            public override string ToString()
+            {
+                return ($"Username: {Name} \nBirthday: {Birthday.ToShortDateString()} \nAge: {Age} \nID: {ID}");
+            }
+        }
+
+        static void Greet(string name)
+        {
+            Console.WriteLine($"Hello {name}!");
+        }        
+    }
+}
+
+
+/*
+//Date Time #10 -- determine the day of the week 40 days after the current date.
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main()
+        {
+            DateTime today = DateTime.Now;
+            TimeSpan daysFromToday = new TimeSpan(40, 0, 0, 0);
+
+            DateTime later = today.Add(daysFromToday);
+
+            Console.WriteLine("Today is: {0:dddd}", today);
+            Console.WriteLine("40 days from today is: {0:dddd}", later);
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//Date Time #9 -- calculate what day of the week is 40 days from this moment.
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main()
+        {
+            int days = 40;
+            Console.WriteLine($"Today's date is: {DateTime.Now.ToLongDateString()}");
+            Console.WriteLine($"{days} days from now it will be: {DateTime.Now.AddDays(days).DayOfWeek}");
+
+            DateTime now = DateTime.Now;
+            TimeSpan daysFromNow = new TimeSpan(40, 0, 0, 0);
+            DateTime then = now.Add(daysFromNow);
+
+            Console.WriteLine($"{daysFromNow.Days} days from today it will be: {then.DayOfWeek}");
+            Console.WriteLine("{0:dd} days from today it will be: {1:dddd}", daysFromNow, then);
+
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//Date Time #8 -- retrieve the current date.
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine($"General format {DateTime.Now.ToString()}");
+            Console.WriteLine("Display the date in a variety of formats:");
+            Console.WriteLine($"\n{DateTime.Now.ToShortDateString()}");
+            Console.WriteLine($"{DateTime.Now.ToLongDateString()}");
+            Console.WriteLine($"{DateTime.Now.ToShortDateString()} {DateTime.Now.ToShortTimeString()}");
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//Date Time #7 -- get the time of day from a given array of date time values
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime[] dateTimes =
+            {DateTime.Now,
+            new DateTime(2016, 08, 16, 09, 28, 0),
+            new DateTime(2011, 05, 28, 10, 35, 0),
+            new DateTime(1979, 12, 25, 14, 30, 0)
+            };
+
+            foreach(DateTime d in dateTimes)
+            {
+                Console.WriteLine($"Day: {d.ToShortDateString()} Time: {d.TimeOfDay}");
+                Console.WriteLine($"Day: {d.ToShortDateString()} Time: {d.ToShortTimeString()}");
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//Date Time #6 -- display the number of ticks that have elapsed since the beginning of the twenty-first century 
+//and to instantiate a TimeSpan object using the Ticks property.
+using System;
+using System.Globalization;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main()
+        {
+            DateTime now = DateTime.Now;
+
+            DateTime then = new DateTime(2001, 01, 01, 00, 00, 00);
+
+            TimeSpan timeSpan = new TimeSpan();
+            timeSpan = now - then;
+                        
+            Console.WriteLine(now.Ticks);
+            Console.WriteLine(then.Ticks);
+
+            Console.WriteLine(timeSpan.Ticks +"\n");
+
+            String[] cultures = { "en-JM", "en-NZ", "fr-BE", "de-CH", "nl-NL" };
+
+            foreach(string s in cultures)
+            {
+                var culture = new CultureInfo(s);
+                Console.WriteLine($"{culture.EnglishName}");
+                Console.WriteLine($"Local date and time: {now.ToString(culture)}");
+                Console.WriteLine($"UTC date and time: {now.ToUniversalTime()}\n");
+            }
+
+            Console.WriteLine(timeSpan.ToString());
+            Console.WriteLine($"{timeSpan.Days} days {timeSpan.Hours} hours {timeSpan.Minutes} minutes and {timeSpan.Seconds} seconds");
+
+            timeSpan -= (now - then);
+
+            Console.WriteLine(timeSpan.ToString());
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+/*
+//Structure #5 -- show what happen when a struct and a class instance is passed to a method.
+//Demonstrates that structs are passed as values and changes made to them within a function are made only to 
+//the values of the instance that were passed to the function, not to the original struct unless the method is
+//of the same return type as the struct that was passed into it and then only if the method is assigned to the
+//original struct in the program body.
+using System;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            RectangleS rectangleS = new RectangleS
+            {
+                Length = 10,
+                Width = 15
+            };
+
+            RectangleC rectangleC = new RectangleC(10, 15);
+
+            Resize(rectangleS, 20, 25);
+
+            Resize(rectangleC, 20, 25);
+
+            Console.WriteLine(rectangleS.ToString());
+            Console.WriteLine(rectangleC.ToString());
+
+            rectangleS = ResizeS(rectangleS, 20, 25);
+
+            Console.WriteLine(rectangleS.ToString());
+
+            Console.ReadKey();
+        }
+
+        public struct RectangleS
+        {
+            public int Length;
+            public int Width;
+
+            public override string ToString()
+            {
+                return ($"Struct Rectangle:     Length: {Length}    Width:{Width}");
+            }
+        }
+
+        public class RectangleC
+        {
+            public int Length;
+            public int Width;
+
+            public RectangleC()
+            {
+                this.Length = 1;
+                this.Width = 1;
+            }
+
+            public RectangleC(int width, int length)
+            {
+                this.Length = length;
+                this.Width = width;
+            }
+
+            public override string ToString()
+            {
+                return ($"Class Rectangle:      Length:{Length}  Width:{Width}");
+            }
+        }
+
+        public static void Resize(RectangleC rectangle, int length, int width)
+        {
+            rectangle.Length = length;
+            rectangle.Width = width;
+        }
+
+        public static void Resize(RectangleS rectangle, int length, int width)
+        {
+            rectangle.Length = length;
+            rectangle.Width = width;
+        }
+
+        public static RectangleS ResizeS(RectangleS rectangle, int length, int width)
+        {
+            rectangle.Length = length;
+            rectangle.Width = width;
+            return rectangle;
+        }
+    }
+}
+
+
+/*
 //Structure #4 -- create a structure and Assign the Value and call it.
 //supposed to create a structure and a class, initilize their values, copy them each to new struct and new class
 //then change the values of the original and print the values from the copies to witness the differences.
