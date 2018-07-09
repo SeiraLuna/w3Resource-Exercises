@@ -1,5 +1,146 @@
 ﻿
 
+
+//Function #6 -- create a function to swap the values of two integer numbers
+//File Handling #4 -- create a file and add some text
+//Struct #7 -- demonstrates struct initialization using both default and parameterized constructors.
+//LINQ #8 --  find the string which starts and ends with a specific character
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Word> wordList = new List<Word>();
+            int wordCount;
+
+            wordCount = GetCount();
+
+            FillList(wordList, wordCount);
+
+
+            string filePath = @"C:\Users\rloyd\source\repos\w3Resource Exercises\w3Resource Exercises\wordList.txt";
+            Stream fs = new FileStream(filePath, FileMode.Create, FileAccess.ReadWrite, FileShare.Read);
+            StreamWriter sw = new StreamWriter(fs);
+            
+            foreach (Word w in wordList)
+            {
+                sw.WriteLine(w.ToString());
+            }
+
+            sw.Close();
+            fs.Close();
+
+            char starts = 'a';
+            char ends = 'e';
+
+            var thisWord = from word in wordList where word.startsWith == starts && word.endsWith == ends select word;
+                        
+            foreach(var v in thisWord)
+            {
+                Console.WriteLine(v.ToString());
+            }
+
+            Console.Write("Please enter a number: ");
+            int numInp1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Please enter a number: ");
+            int numInp2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"First num: {numInp1}  second num: {numInp2}");
+
+            Swap(ref numInp1, ref numInp2);
+
+            Console.WriteLine($"First num: {numInp1}  second num: {numInp2}");
+
+            Console.ReadKey();
+        }
+
+        public struct Word
+        {
+            public string theWord;
+            public char startsWith;
+            public char endsWith;
+
+            public Word(char start = '-', char end = '-')
+            {
+                this.startsWith = start;
+                this.endsWith = end;
+                this.theWord = "--";
+            }
+
+            public Word  (string word)
+            {
+                this.startsWith = word[0];
+                this.endsWith = word[word.Length - 1];
+                this.theWord = word;
+            }
+
+            public override string ToString()
+            {
+                return ($"\"{this.theWord}\" begins with \'{this.startsWith}\' and ends with \'{this.endsWith}\'");
+            }
+        }
+
+        public static int GetCount()
+        {
+            int Count = 0;
+            while (true)
+            {
+                try
+                {
+                    Console.Write("Please enter the number of words (between 1 and 10) that you would like to log: ");
+                    Count = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("That's not a valid entry!");
+                }
+                if (Count < 1 || Count > 10)
+                    Console.WriteLine("The number must be between 1 and 10!");
+                else
+                    return Count;
+            }
+        }
+
+        public static void FillList(List<Word> list, int count)
+        {
+            for (var i = count; i > 0; i--)
+            {
+                try
+                {
+                    Console.Write($"Please enter word number {i}: ");
+                    list.Add(new Word (Console.ReadLine()));
+                }
+                catch
+                {
+                    Console.WriteLine("That's not a valid entry!");
+                    ++i;
+                }
+            }
+        }
+
+        public static void Swap(ref int num1, ref int num2)
+        {
+            Console.WriteLine($"Before swap the first number is: {num1}  and the second number is: {num2}");
+
+            num1 = num1 * num2;
+            num2 = num1 / num2;
+            num1 = num1 / num2;
+
+            Console.WriteLine($"After swap the first number is: {num1}  and the second number is: {num2}");
+        }
+    }
+}
+
+
+/*
 //Function #5 --  calculate the sum of elements in an array
 //Recursion #12 -- find the LCM and GCD of two numbers using recursion.
 //LINQ #7 -- display numbers, multiplication of number with frequency and frequency of a number of giving array.
