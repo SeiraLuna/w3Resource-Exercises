@@ -1,6 +1,264 @@
 ﻿
+//w3resource solution impelmentations of:
+//Recursion #14 -- get the reverse of a string using recursion  *
+//String #2 -- find the length of a string without using library function   *
+//LINQ #9 -- create a list of numbers and display the numbers greater than 80 as output *
+//Also messed around with the .foreach() extension and associated Action<> creation *
+using System;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string input = "";
+            int length = 0;
+            List<int> numbers = new List<int> { 10, 23, 42, 17, 39, 100, 75, 84, 66, 175, 31, 200 };
+            Action<int> action = new Action<int>((n => Console.WriteLine(n * n)));
+
+            var over80 = numbers.FindAll(n => n > 80 ? true : false);
+            numbers.ForEach(action);
+
+            foreach(int i in numbers)
+            {
+                Console.Write($"{i}, ");
+            }
+
+            foreach(int i in over80)
+            {
+                Console.Write($"{i}, ");
+            }
 
 
+            while (true)
+            {
+                Console.Write("\nPlease enter a string: ");
+                input = Console.ReadLine();
+                if (input.Length > 0)
+                    break;
+                else
+                    Console.WriteLine("That is not a valid entry!");
+            }
+
+            input = Reverse(input);
+
+            Console.WriteLine($"The reverse of the string that you entered is: {input}");
+
+            foreach(char c in input)
+            {
+                length++;
+            }
+
+            Console.WriteLine($"The length of the string that you entered is: {length}");
+
+            Console.ReadKey();
+        }
+
+        public static string Reverse(string input)
+        {
+            if (input.Length > 0)
+                return input[input.Length - 1] + Reverse(input.Substring(0, input.Length - 1));
+            else
+                return input;
+        }
+    }
+}
+
+
+/*
+//Array #4 -- copy the elements one array into another array    *
+//String #1 -- input a string and print it  *
+//String #2 -- find the length of a string without using library function   *
+//Function #8 -- create a function to display the n number Fibonacci sequence. *
+//Recursion #14 --  get the reverse of a string using recursion *
+//LINQ #9 -- create a list of numbers and display the numbers greater than 80 as output *
+using System;
+using System.Linq;
+using System.IO;
+using System.Collections.Generic;
+using System.Threading;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string input = "";
+            int fibCount = 0;
+            int[] fibArray;
+            int[] fibArray2;
+            int fibThreshold = 80;
+
+            while (input.Length < 1)
+            {
+                Console.Write("Please enter a string: ");
+                input = Console.ReadLine();
+            }
+
+            Console.WriteLine($"The string that you enterd contains - {Count(input)} - characters.");            
+            Console.WriteLine($"\nThe reverse of the string that you entered is: \n\n");
+            Reverse(input);
+
+
+
+            while (true)
+            {
+                try
+                {
+                    Console.Write("\n\n\nPlease enter the number of Fibonacci numbers that you would like to see: ");
+                    fibCount = Convert.ToInt32(Console.ReadLine());
+                    break;
+                }
+                catch
+                {
+                    Console.WriteLine("That was not a valid entry!");
+                }
+            }
+
+            fibArray = new int[fibCount];
+            Fibonacci(fibCount, ref fibArray);
+
+            Console.WriteLine($"The numbers stored in fibArray are: {string.Join(", ", fibArray)}");
+            fibArray2 = fibArray;   //copies number set from fib1 to fib2
+            Console.WriteLine("FibArray has been copied to fibArray2.");
+            fibArray = null; //purges fib2 to demonstrate data transfer
+            Console.WriteLine("FibArray has been purged.");
+
+            Console.WriteLine($"The numbers stored in fibArray2 are: {string.Join(", ", fibArray2)}");
+            try
+            {
+                Console.WriteLine($"The numbers stored in fibArray are: {string.Join(", ", fibArray)}");
+            }
+            catch
+            {
+                Console.WriteLine("fibArray could not be displayed due to null exception.");
+            }
+
+
+            var fibsOver80 = from fibs in fibArray2 where fibs > fibThreshold select fibs;
+
+            Console.WriteLine($"The fibonacci numbers greater than {fibThreshold} are: ");
+            foreach(var v in fibsOver80)
+            {
+                Console.WriteLine(v);
+            }
+
+            Console.ReadKey();
+        }
+
+        public static int Count(string input)
+        {
+            int count = 0;
+            while (input != null && input != input.Substring(0, 1))
+            {
+                input = input.Remove(0, 1);
+                ++count;
+            }
+            return ++count;
+        }
+
+        public static void Reverse(string input)
+        {
+            if (Count(input) > 1)
+            {
+                Reverse(input.Remove(0, 1));
+                Console.Write($"{input.Substring(0, 1)}");
+            }
+            else
+                Console.Write(input);
+        }
+
+        public static void Fibonacci(int count, ref int[] fibArray, int fib1 = 0, int fib2 = 1 )
+        {
+            if(count > 0)
+            {
+                Console.WriteLine(fib1);
+                fibArray[fibArray.Length - count] = fib1;
+                Fibonacci(--count, ref fibArray, fib2, fib1 + fib2 );
+            }
+        }
+    }
+}
+
+
+
+/*
+//File Handling #5 -- create a file with text and read the file
+//Function #7 -- create a function to calculate the result of raising an integer number to another
+//Struct #8 --  demonstrates struct initialization without using the new operator
+//Recursion #13 -- convert a decimal number to binary using recursion
+
+using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Collections;
+using System.IO;
+using System.Threading;
+
+namespace cFun
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Squared number;
+            int binaryNum = 0;
+            string fileName = @"test text.txt";
+
+            Console.Write("Please enter a number: ");
+            number.root = Convert.ToInt32(Console.ReadLine());
+            number.square = Square(number.root);
+
+            using (StreamWriter sw = new StreamWriter(File.Open(fileName, FileMode.Append, FileAccess.Write,FileShare.ReadWrite)))
+            {
+                sw.WriteLine($"The square of the number {number.root} is: {number.square}");
+                sw.WriteLine($"The number {number.root} in binary is: {ToBinary(number.root, ref binaryNum)}");
+            }
+
+            Console.WriteLine(Directory.GetCurrentDirectory());
+
+            using (StreamReader sr = File.OpenText(fileName))
+            {
+                Console.WriteLine(sr.ReadLine());
+                Console.WriteLine(sr.ReadLine());
+            }            
+           
+            Console.ReadKey();
+        }
+
+        public struct Squared
+        {
+            public int root;
+            public int square;
+
+            public Squared (int num)
+            {
+                root = num;
+                square = Square(num);
+            }
+        }
+
+        public static int Square (int num)
+        {
+            return num * num;
+        }
+
+        public static int ToBinary (int num, ref int bin)
+        {
+            if (num > 0)
+                bin += num % 2 + 10 * ToBinary(num / 2, ref bin);
+            return bin;
+        }
+    }
+}
+
+
+
+/*
 //Function #6 -- create a function to swap the values of two integer numbers
 //File Handling #4 -- create a file and add some text
 //Struct #7 -- demonstrates struct initialization using both default and parameterized constructors.
